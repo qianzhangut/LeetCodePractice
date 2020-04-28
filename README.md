@@ -14,18 +14,10 @@ If you have better code (I like readable code rather than short liner), send pul
 
 ## Algorithms
 
-### Warmup
 
 
-| ID  	| Challenge   | Solution | Score |
-| :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
-|1| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Solve%20Me%20First.py) | 1|
-|2| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Simple%20Array%20Sum.py) | 10| 
-|3|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Compare%20the%20Triplets.py) | 10| 
-|4|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/A%20Very%20Big%20Sum.py) | 10| 
-|5|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Diagonal%20Difference.py) | 10| 
-|6|[Plus Minus ](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Plus%20Minus.py) | 10| 
-|7|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Staircase.py) | 10| 
-|8|[Mini-Max Sum ](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Mini-Max%20Sum.py) |10 | 
-|9|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Birthday%20Cake%20Candles.py) |10 | 
-|10|[Time Conversion ](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Time%20Conversion.py) | 15| 
+| ID  	| Challenge   | Solution |
+| :------| -------------------------------------------------------------------------------------- | ----------------------|
+|1|[001.Two Sum](https://www.leetcode.com/problems/001.two-sum/ | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/001.Two%20Sum.py) |
+|2|[002.Add Two Numbers](https://www.leetcode.com/problems/002.add-two-numbers/ | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/002.Add%20Two%20Numbers.py) |
+|3|[003.Longest Substring Without Repeating Characters](https://www.leetcode.com/problems/003.longest-substring-without-repeating-characters/ | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/003.Longest%20Substring%20Without%20Repeating%20Characters.py) |
