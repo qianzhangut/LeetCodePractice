@@ -32,7 +32,7 @@ If you have better code (I like readable code rather than short liner), send pul
 |027|[Remove Element](https://www.leetcode.com/problems/remove-element/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/027.Remove%20Element.py) |
 |035|[Search Insert Position](https://www.leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/035.Search%20Insert%20Position.py) |
 |121|[Best Time to Buy and Sell Stock](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
-|141|[Linked List Cycle](https://www.leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/141.Linked%20List%20Cycle..py) |
+|141|[Linked List Cycle](https://www.leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/141.Linked%20List%20Cycle.py) |
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
 |719|[Find K](https://www.leetcode.com/problems/find-k/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/719.Find%20K-th%20Smallest%20Pair%20Distance.py) |
 |729|[My Calendar I](https://www.leetcode.com/problems/my-calendar-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/729.My%20Calendar%20I.py) |
