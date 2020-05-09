@@ -1,3 +1,5 @@
+
+
 class Solution:
     def countAndSay(self, n: int) -> str:
         if n==1:
