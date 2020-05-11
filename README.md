@@ -48,6 +48,15 @@ If you have better code (I like readable code rather than short liner), send pul
 |141|[Linked List Cycle](https://www.leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/141.Linked%20List%20Cycle.py) |
 |168|[Excel Sheet Column Title](https://www.leetcode.com/problems/excel-sheet-column-title/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/168.Excel%20Sheet%20Column%20Title.py) |
 |169|[Majority Element](https://www.leetcode.com/problems/majority-element/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/169.Majority%20Element.py) |
+|171|[Excel Sheet Column Number](https://www.leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/171.Excel%20Sheet%20Column%20Number.py) |
+|172|[Factorial Trailing Zeroes](https://www.leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/172.Factorial%20Trailing%20Zeroes.py) |
+|175|[Combine Two Tables](https://www.leetcode.com/problems/combine-two-tables/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/175.Combine%20Two%20Tables.py) |
+|181|[Employees Earning More Than Their Managers](https://www.leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/181.Employees%20Earning%20More%20Than%20Their%20Managers.py) |
+|182|[Duplicate Emails](https://www.leetcode.com/problems/duplicate-emails/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/182.Duplicate%20Emails.py) |
+|183|[Customers Who Never Order](https://www.leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/183.Customers%20Who%20Never%20Order.py) |
+|189|[Rotate Array](https://www.leetcode.com/problems/rotate-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/189.Rotate%20Array.py) |
+|198|[House Robber](https://www.leetcode.com/problems/house-robber/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/198.House%20Robber.py) |
+|202|[Happy Number](https://www.leetcode.com/problems/happy-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/202.Happy%20Number.py) |
 |237|[Delete Node in a Linked List](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/237.Delete%20Node%20in%20a%20Linked%20List.py) |
 |704|[Binary Search](https://www.leetcode.com/problems/binary-search/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/704.Binary%20Search.py) |
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
