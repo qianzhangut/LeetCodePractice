@@ -26,6 +26,7 @@ If you have better code (I like readable code rather than short liner), send pul
 |009|[Palindrome Number](https://www.leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/009.Palindrome%20Number.py) |
 |013|[Roman to Integer](https://www.leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/013.Roman%20to%20Integer.py) |
 |014|[Longest Common Prefix](https://www.leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/014.Longest%20Common%20Prefix.py) |
+|020|[Valid Parentheses](https://www.leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/020.Valid%20Parentheses.py) |
 |021|[Merge Two Sorted Lists](https://www.leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/021.Merge%20Two%20Sorted%20Lists.py) |
 |023|[Merge k Sorted Lists](https://www.leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/023.Merge%20k%20Sorted%20Lists.py) |
 |026|[Remove Duplicates from Sorted Array](https://www.leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/026.Remove%20Duplicates%20from%20Sorted%20Array.py) |
@@ -41,6 +42,7 @@ If you have better code (I like readable code rather than short liner), send pul
 |070|[Climbing Stairs](https://www.leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/070.Climbing%20Stairs.py) |
 |083|[Remove Duplicates from Sorted List](https://www.leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/083.Remove%20Duplicates%20from%20Sorted%20List.py) |
 |088|[Merge Sorted Array](https://www.leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/088.Merge%20Sorted%20Array.py) |
+|100|[Same Tree    ](https://www.leetcode.com/problems/same-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/100.Same%20Tree.py) |
 |121|[Best Time to Buy and Sell Stock](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 |122|[Best Time to Buy and Sell Stock II](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) |
 |125|[Valid Palindrome](https://www.leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/125.Valid%20Palindrome.py) |
@@ -55,8 +57,12 @@ If you have better code (I like readable code rather than short liner), send pul
 |182|[Duplicate Emails](https://www.leetcode.com/problems/duplicate-emails/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/182.Duplicate%20Emails.py) |
 |183|[Customers Who Never Order](https://www.leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/183.Customers%20Who%20Never%20Order.py) |
 |189|[Rotate Array](https://www.leetcode.com/problems/rotate-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/189.Rotate%20Array.py) |
+|190|[Reverse Bits](https://www.leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/190.Reverse%20Bits.py) |
+|191|[Number of 1 Bits](https://www.leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/191.Number%20of%201%20Bits.py) |
 |198|[House Robber](https://www.leetcode.com/problems/house-robber/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/198.House%20Robber.py) |
 |202|[Happy Number](https://www.leetcode.com/problems/happy-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/202.Happy%20Number.py) |
+|203|[Remove Linked List Elements](https://www.leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/203.Remove%20Linked%20List%20Elements.py) |
+|204|[Count Prime](https://www.leetcode.com/problems/count-prime/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/204.Count%20Prime.py) |
 |237|[Delete Node in a Linked List](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/237.Delete%20Node%20in%20a%20Linked%20List.py) |
 |704|[Binary Search](https://www.leetcode.com/problems/binary-search/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/704.Binary%20Search.py) |
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
