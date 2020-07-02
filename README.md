@@ -59,10 +59,12 @@ If you have better code (I like readable code rather than short liner), send pul
 |189|[Rotate Array](https://www.leetcode.com/problems/rotate-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/189.Rotate%20Array.py) |
 |190|[Reverse Bits](https://www.leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/190.Reverse%20Bits.py) |
 |191|[Number of 1 Bits](https://www.leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/191.Number%20of%201%20Bits.py) |
+|193|[Valid Phone Numbers](https://www.leetcode.com/problems/valid-phone-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/193.Valid%20Phone%20Numbers.py) |
 |198|[House Robber](https://www.leetcode.com/problems/house-robber/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/198.House%20Robber.py) |
 |202|[Happy Number](https://www.leetcode.com/problems/happy-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/202.Happy%20Number.py) |
 |203|[Remove Linked List Elements](https://www.leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/203.Remove%20Linked%20List%20Elements.py) |
 |204|[Count Prime](https://www.leetcode.com/problems/count-prime/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/204.Count%20Prime.py) |
+|217|[Contains Duplicate](https://www.leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/217.Contains%20Duplicate.py) |
 |237|[Delete Node in a Linked List](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/237.Delete%20Node%20in%20a%20Linked%20List.py) |
 |704|[Binary Search](https://www.leetcode.com/problems/binary-search/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/704.Binary%20Search.py) |
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
