@@ -8,7 +8,6 @@
 
 This repository contains my solutions to LeetCode practice problems.
 
-If you have better code (I like readable code rather than short liner), send pull request.
 
 
 
