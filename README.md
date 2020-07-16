@@ -66,6 +66,10 @@ This repository contains my solutions to LeetCode practice problems.
 |217|[Contains Duplicate](https://www.leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/217.Contains%20Duplicate.py) |
 |219|[Contains Duplicate II](https://www.leetcode.com/problems/contains-duplicate-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/219.Contains%20Duplicate%20II.py) |
 |237|[Delete Node in a Linked List](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/237.Delete%20Node%20in%20a%20Linked%20List.py) |
+|242|[Valid Anagram](https://www.leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/242.Valid%20Anagram.py) |
+|258|[Add Digits](https://www.leetcode.com/problems/add-digits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/258.Add%20Digits.py) |
+|283|[Move Zeroes](https://www.leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/283.Move%20Zeroes.py) |
+|344|[Reverse String](https://www.leetcode.com/problems/reverse-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/344.Reverse%20String.py) |
 |704|[Binary Search](https://www.leetcode.com/problems/binary-search/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/704.Binary%20Search.py) |
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
 |719|[Find K-th Smallest Pair Distance](https://www.leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/719.Find%20K-th%20Smallest%20Pair%20Distance.py) |
