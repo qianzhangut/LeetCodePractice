@@ -1,19 +1,10 @@
-
-
-
-
 <p align="center"><a href="https://www.leetcode.com"><img src="https://github.com/qianzhangut/LeetCodePractice/blob/master/leetcode.png" ></a></p>
 
-# Solutions to Hackerrank Challenges
+# Solutions to Leetcode Challenges
 
 This repository contains my solutions to LeetCode practice problems.
 
-
-
-
 ## Algorithms
-
-
 
 | ID  	| Challenge   | Solution |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|
@@ -70,6 +61,7 @@ This repository contains my solutions to LeetCode practice problems.
 |258|[Add Digits](https://www.leetcode.com/problems/add-digits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/258.Add%20Digits.py) |
 |283|[Move Zeroes](https://www.leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/283.Move%20Zeroes.py) |
 |344|[Reverse String](https://www.leetcode.com/problems/reverse-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/344.Reverse%20String.py) |
+|345|[Reverse Vowels of a String](https://www.leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/345.Reverse%20Vowels%20of%20a%20String.py) |
 |704|[Binary Search](https://www.leetcode.com/problems/binary-search/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/704.Binary%20Search.py) |
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
 |719|[Find K-th Smallest Pair Distance](https://www.leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/719.Find%20K-th%20Smallest%20Pair%20Distance.py) |
