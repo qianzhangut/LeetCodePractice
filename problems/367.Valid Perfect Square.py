@@ -18,7 +18,7 @@ class Solution:
         else:
             return False
         
- # calculate square
+ # calculate square root 
  
     def isPerfectSquare(self, num: int) -> bool:
 
