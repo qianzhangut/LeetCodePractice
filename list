@@ -6,7 +6,6 @@
 009.Palindrome Number
 013.Roman to Integer
 014.Longest Common Prefix
-020.Valid Parentheses
 021.Merge Two Sorted Lists
 023.Merge k Sorted Lists
 026.Remove Duplicates from Sorted Array
@@ -22,7 +21,6 @@
 070.Climbing Stairs
 083.Remove Duplicates from Sorted List
 088.Merge Sorted Array
-100.Same Tree    
 121.Best Time to Buy and Sell Stock
 122.Best Time to Buy and Sell Stock II
 125.Valid Palindrome
@@ -43,22 +41,27 @@
 198.House Robber
 202.Happy Number
 203.Remove Linked List Elements
-204.Count Prime
+204.Count Primes
 217.Contains Duplicate
 219.Contains Duplicate II
 237.Delete Node in a Linked List
 242.Valid Anagram
 258.Add Digits
+268.Missing Number
 283.Move Zeroes
 344.Reverse String
 345.Reverse Vowels of a String
+349.Intersection of Two Arrays
 367.Valid Perfect Square
+566.Reshape the Matrix
 704.Binary Search
 707.Design Linked List
 719.Find K-th Smallest Pair Distance
 729.My Calendar I
 744.Find Smallest Letter Greater Than Target
 792.Number of Matching Subsequences
-1268.Search Suggestions System.py
+867.Transpose Matrix
+1268.Search Suggestions System
 1283.Find the Smallest Divisor Given a Threshold
+1287.Element Appearing More Than 25% In Sorted Array
 1292.Maximum Side Length of a Square with Sum Less than or Equal to Threshold
