@@ -8,11 +8,6 @@ This repository contains my solutions to LeetCode practice problems.
 
 | ID  	| Challenge   | Solution |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|
-
-
-
-
-
 |001|[Two Sum](https://www.leetcode.com/problems/two-sum/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/001.Two%20Sum.py) |
 |002|[Add Two Numbers](https://www.leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/002.Add%20Two%20Numbers.py) |
 |003|[Longest Substring Without Repeating Characters](https://www.leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/003.Longest%20Substring%20Without%20Repeating%20Characters.py) |
