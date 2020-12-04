@@ -1,8 +1,12 @@
 import os
 import re
+from tkinter import Tcl
 
 p = os.listdir("F:\github_project\LeetCodePractice\problems")
 pnew = [i.replace('.py','') for i in p]
+pnew = Tcl().call('lsort', '-dict', pnew)
+
+
 with open("F:\github_project\LeetCodePractice\list", 'w') as filehandle:
     for listitem in pnew:
         filehandle.write('%s\n' % listitem)
