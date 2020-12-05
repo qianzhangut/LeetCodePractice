@@ -24,5 +24,12 @@ class Solution:
             r += s[i:i+3] + '.'
         return r[-2::-1]
         
-
-           
+## use range segmentation
+class Solution:
+    def thousandSeparator(self, n: int) -> str:
+        lst = str(n)
+        for i in range(len(lst),0,-3):
+            lst = lst[:i] + '.' + lst[i:]
+    
+    
+        return lst[:-1]            
