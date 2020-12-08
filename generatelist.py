@@ -2,16 +2,18 @@ import os
 import re
 from tkinter import Tcl
 
+## read problem names
 p = os.listdir("F:\github_project\LeetCodePractice\problems")
 pnew = [i.replace('.py','') for i in p]
 pnew = Tcl().call('lsort', '-dict', pnew)
 
-
+## write to list
 with open("F:\github_project\LeetCodePractice\list", 'w') as filehandle:
     for listitem in pnew:
         filehandle.write('%s\n' % listitem)
         
 
+## parse readme markdown content
 al = []
 f = open("F:\github_project\LeetCodePractice\list", "r")
 lines = f.readlines()
