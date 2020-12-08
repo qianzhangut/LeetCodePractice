@@ -17,4 +17,7 @@ class Solution:
     def bitwiseComplement(self, N: int) -> int:
         return int(''.join(['0' if i=='1' else '1' for i in bin(N)[2:]]), 2)
         
-        
+## use BitwiseOperators      
+class Solution:
+    def bitwiseComplement(self, N: int) -> int:
+        return (1<<len(bin(N)[2:]))-1-N
