@@ -5,9 +5,7 @@ class Solution:
         while n>0:
             res += str(n%7)
             n = n//7
-        if num>0:
-            return res[::-1]
-        elif num<0:
-            return '-'+res[::-1]
-        else:
+        if num==0:
             return '0'
+        else:
+            [res[::-1], '-'+res[::-1]][num<0]
