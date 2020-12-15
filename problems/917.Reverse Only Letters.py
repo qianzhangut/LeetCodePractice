@@ -11,3 +11,15 @@ class Solution:
                 xs[j] = c
                 j -= 1
         return ''.join(xs)
+        
+## Stack of Letters
+class Solution:
+    def reverseOnlyLetters(self, S: str) -> str:
+        st = [i for i in S if i.isalpha()]
+        res = ''
+        for i in range(len(S)):
+            if S[i].isalpha():
+                res += st.pop()
+            else:
+                res += (S[i])
+        return res
