@@ -23,3 +23,18 @@ class Solution:
             else:
                 res += (S[i])
         return res
+        
+## Improvement of the last solution
+class Solution:
+    def reverseOnlyLetters(self, S: str) -> str:
+        st = [i for i in S if i.isalpha()]
+        st = st[::-1]
+        res = ''
+        cnt = 0
+        for i in range(len(S)):
+            if S[i].isalpha():
+                res += st[cnt]
+                cnt += 1
+            else:
+                res += (S[i])
+        return res
