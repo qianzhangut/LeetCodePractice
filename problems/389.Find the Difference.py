@@ -31,3 +31,11 @@ class Solution:
                 dic[ch] -= 1
                 
 ## use ord diff
+class Solution:
+    def findTheDifference(self, s: str, t: str) -> str:
+        diff = 0
+        for i in range(len(s)):
+            diff -= ord(s[i])
+            diff += ord(t[i])
+        diff += ord(t[-1])
+        return chr(diff)
