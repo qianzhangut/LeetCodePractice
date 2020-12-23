@@ -55,8 +55,12 @@
 345.Reverse Vowels of a String
 349.Intersection of Two Arrays
 367.Valid Perfect Square
+389.Find the Difference
 504.Base 7
+509.Fibonacci Number
+557.Reverse Words in a String III
 566.Reshape the Matrix
+643.Maximum Average Subarray I
 704.Binary Search
 707.Design Linked List
 719.Find K-th Smallest Pair Distance
@@ -64,9 +68,11 @@
 744.Find Smallest Letter Greater Than Target
 792.Number of Matching Subsequences
 819.Most Common Word
+844.Backspace String Compare
 867.Transpose Matrix
 917.Reverse Only Letters
 1009.Complement of Base 10 Integer
+1237.Find Positive Integer Solution for a Given Equation
 1268.Search Suggestions System
 1283.Find the Smallest Divisor Given a Threshold
 1287.Element Appearing More Than 25% In Sorted Array
