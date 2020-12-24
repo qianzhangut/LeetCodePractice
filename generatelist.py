@@ -21,7 +21,20 @@ for line in lines:
     al.append(line)
 f.close()
 
-with open("F:\github_project\LeetCodePractice\listreadme", 'w') as l:
+header = """
+<p align="center"><a href="https://www.leetcode.com"><img src="https://github.com/qianzhangut/LeetCodePractice/blob/master/leetcode.png" ></a></p>
+
+# Solutions to Leetcode Challenges
+
+This repository contains my solutions to LeetCode practice problems.
+
+## Algorithms
+
+| ID  	| Challenge   | Solution |
+| :------| -------------------------------------------------------------------------------------- | ----------------------|
+"""
+with open("F:\github_project\LeetCodePractice\README.md", 'w') as l:
+    l.write(header)
     for i in range(len(al)):
         temp = re.findall(r"[\w+\ +\-*]+", al[i])
         leet = temp[1].lower().split()
