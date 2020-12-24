@@ -1,3 +1,4 @@
+
 <p align="center"><a href="https://www.leetcode.com"><img src="https://github.com/qianzhangut/LeetCodePractice/blob/master/leetcode.png" ></a></p>
 
 # Solutions to Leetcode Challenges
@@ -88,4 +89,3 @@ This repository contains my solutions to LeetCode practice problems.
 |1287|[Element Appearing More Than 25](https://www.leetcode.com/problems/element-appearing-more-than-25/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1287.Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array.py) |
 |1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://www.leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1292.Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.py) |
 |1556|[Thousand Separator](https://www.leetcode.com/problems/thousand-separator/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1556.Thousand%20Separator.py) |
-
