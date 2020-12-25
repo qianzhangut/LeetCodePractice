@@ -2,20 +2,24 @@ import os
 import re
 from tkinter import Tcl
 
+
+#work = "F:\github_project\LeetCodePractice\"
+
+work = "/mnt/c/Users/zhang/LeetCodePractice/"
 ## read problem names
-p = os.listdir("F:\github_project\LeetCodePractice\problems")
+p = os.listdir(work + "problems")
 pnew = [i.replace('.py','') for i in p]
 pnew = Tcl().call('lsort', '-dict', pnew)
 
 ## write to list
-with open("F:\github_project\LeetCodePractice\list", 'w') as filehandle:
+with open(work+"list", 'w') as filehandle:
     for listitem in pnew:
         filehandle.write('%s\n' % listitem)
         
 
 ## parse readme markdown content
 al = []
-f = open("F:\github_project\LeetCodePractice\list", "r")
+f = open(work +"list", "r")
 lines = f.readlines()
 for line in lines:
     al.append(line)
@@ -33,7 +37,7 @@ This repository contains my solutions to LeetCode practice problems.
 | ID  	| Challenge   | Solution |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|
 """
-with open("F:\github_project\LeetCodePractice\README.md", 'w') as l:
+with open(work+"README.md", 'w') as l:
     l.write(header)
     for i in range(len(al)):
         temp = re.findall(r"[\w+\ +\-*]+", al[i])
