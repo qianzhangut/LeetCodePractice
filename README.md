@@ -61,7 +61,10 @@ This repository contains my solutions to LeetCode practice problems.
 |258|[Add Digits](https://www.leetcode.com/problems/add-digits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/258.Add%20Digits.py) |
 |268|[Missing Number](https://www.leetcode.com/problems/missing-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/268.Missing%20Number.py) |
 |283|[Move Zeroes](https://www.leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/283.Move%20Zeroes.py) |
+|287|[Find the Duplicate Number](https://www.leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/287.Find%20the%20Duplicate%20Number.py) |
 |326|[Power of Three](https://www.leetcode.com/problems/power-of-three/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/326.Power%20of%20Three.py) |
+|338|[Counting Bits](https://www.leetcode.com/problems/counting-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/338.Counting%20Bits.py) |
+|343|[Integer Break](https://www.leetcode.com/problems/integer-break/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/343.Integer%20Break.py) |
 |344|[Reverse String](https://www.leetcode.com/problems/reverse-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/344.Reverse%20String.py) |
 |345|[Reverse Vowels of a String](https://www.leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/345.Reverse%20Vowels%20of%20a%20String.py) |
 |349|[Intersection of Two Arrays](https://www.leetcode.com/problems/intersection-of-two-arrays/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/349.Intersection%20of%20Two%20Arrays.py) |
