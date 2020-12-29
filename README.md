@@ -59,6 +59,8 @@ This repository contains my solutions to LeetCode practice problems.
 |237|[Delete Node in a Linked List](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/237.Delete%20Node%20in%20a%20Linked%20List.py) |
 |242|[Valid Anagram](https://www.leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/242.Valid%20Anagram.py) |
 |258|[Add Digits](https://www.leetcode.com/problems/add-digits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/258.Add%20Digits.py) |
+|263|[Ugly Number](https://www.leetcode.com/problems/ugly-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/263.Ugly%20Number.py) |
+|264|[Ugly Number II](https://www.leetcode.com/problems/ugly-number-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/264.Ugly%20Number%20II.py) |
 |268|[Missing Number](https://www.leetcode.com/problems/missing-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/268.Missing%20Number.py) |
 |283|[Move Zeroes](https://www.leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/283.Move%20Zeroes.py) |
 |287|[Find the Duplicate Number](https://www.leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/287.Find%20the%20Duplicate%20Number.py) |
