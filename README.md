@@ -71,7 +71,9 @@ This repository contains my solutions to LeetCode practice problems.
 |345|[Reverse Vowels of a String](https://www.leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/345.Reverse%20Vowels%20of%20a%20String.py) |
 |349|[Intersection of Two Arrays](https://www.leetcode.com/problems/intersection-of-two-arrays/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/349.Intersection%20of%20Two%20Arrays.py) |
 |367|[Valid Perfect Square](https://www.leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/367.Valid%20Perfect%20Square.py) |
+|387|[First Unique Character in a String](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/387.First%20Unique%20Character%20in%20a%20String.py) |
 |389|[Find the Difference](https://www.leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/389.Find%20the%20Difference.py) |
+|392|[Is Subsequence](https://www.leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/392.Is%20Subsequence.py) |
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |509|[Fibonacci Number](https://www.leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/509.Fibonacci%20Number.py) |
 |557|[Reverse Words in a String III](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/557.Reverse%20Words%20in%20a%20String%20III.py) |
