@@ -3,9 +3,9 @@ import re
 from tkinter import Tcl
 
 
-#work = "F:\github_project\LeetCodePractice\"
+work = "F:/github_project/LeetCodePractice/"
 
-work = "/mnt/c/Users/zhang/LeetCodePractice/"
+#work = "/mnt/c/Users/zhang/LeetCodePractice/"
 ## read problem names
 p = os.listdir(work + "problems")
 pnew = [i.replace('.py','') for i in p]
