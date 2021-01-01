@@ -10,4 +10,11 @@ class Solution:
                 start += 1
         return True
             
+## one line python
+
+class Solution:
+    def isSubsequence(self, s: str, t: str) -> bool:
+        t = iter(t)
+        return all([c in t for c in s])
+            
             
