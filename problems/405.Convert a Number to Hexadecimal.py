@@ -13,5 +13,16 @@ class Solution:
             num //= 16
         return res[::-1]
             
-            
+## bit operation 
+class Solution:
+    def toHex(self, num: int) -> str:
+        if num ==0: return '0'
+        res = ''
+        hexStr = '0123456789abcdef'
+        while num and len(res) != 8:
+            h = num & 15
+            res = hexStr[h] + res
+            num >>= 4
+        return res
+             
             
