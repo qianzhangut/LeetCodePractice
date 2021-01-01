@@ -74,6 +74,7 @@ This repository contains my solutions to LeetCode practice problems.
 |387|[First Unique Character in a String](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/387.First%20Unique%20Character%20in%20a%20String.py) |
 |389|[Find the Difference](https://www.leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/389.Find%20the%20Difference.py) |
 |392|[Is Subsequence](https://www.leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/392.Is%20Subsequence.py) |
+|405|[Convert a Number to Hexadecimal](https://www.leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/405.Convert%20a%20Number%20to%20Hexadecimal.py) |
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |509|[Fibonacci Number](https://www.leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/509.Fibonacci%20Number.py) |
 |557|[Reverse Words in a String III](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/557.Reverse%20Words%20in%20a%20String%20III.py) |
