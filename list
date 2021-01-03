@@ -45,6 +45,7 @@
 217.Contains Duplicate
 219.Contains Duplicate II
 228.Summary Ranges
+231.Power of Two
 237.Delete Node in a Linked List
 242.Valid Anagram
 258.Add Digits
@@ -55,11 +56,13 @@
 287.Find the Duplicate Number
 326.Power of Three
 338.Counting Bits
+342.Power of Four
 343.Integer Break
 344.Reverse String
 345.Reverse Vowels of a String
 349.Intersection of Two Arrays
 367.Valid Perfect Square
+374.Guess Number Higher or Lower
 387.First Unique Character in a String
 389.Find the Difference
 392.Is Subsequence
