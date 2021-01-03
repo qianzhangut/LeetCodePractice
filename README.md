@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode practice problems.
 |217|[Contains Duplicate](https://www.leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/217.Contains%20Duplicate.py) |
 |219|[Contains Duplicate II](https://www.leetcode.com/problems/contains-duplicate-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/219.Contains%20Duplicate%20II.py) |
 |228|[Summary Ranges](https://www.leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/228.Summary%20Ranges.py) |
+|231|[Power of Two](https://www.leetcode.com/problems/power-of-two/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/231.Power%20of%20Two.py) |
 |237|[Delete Node in a Linked List](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/237.Delete%20Node%20in%20a%20Linked%20List.py) |
 |242|[Valid Anagram](https://www.leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/242.Valid%20Anagram.py) |
 |258|[Add Digits](https://www.leetcode.com/problems/add-digits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/258.Add%20Digits.py) |
@@ -66,11 +67,13 @@ This repository contains my solutions to LeetCode practice problems.
 |287|[Find the Duplicate Number](https://www.leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/287.Find%20the%20Duplicate%20Number.py) |
 |326|[Power of Three](https://www.leetcode.com/problems/power-of-three/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/326.Power%20of%20Three.py) |
 |338|[Counting Bits](https://www.leetcode.com/problems/counting-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/338.Counting%20Bits.py) |
+|342|[Power of Four](https://www.leetcode.com/problems/power-of-four/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/342.Power%20of%20Four.py) |
 |343|[Integer Break](https://www.leetcode.com/problems/integer-break/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/343.Integer%20Break.py) |
 |344|[Reverse String](https://www.leetcode.com/problems/reverse-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/344.Reverse%20String.py) |
 |345|[Reverse Vowels of a String](https://www.leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/345.Reverse%20Vowels%20of%20a%20String.py) |
 |349|[Intersection of Two Arrays](https://www.leetcode.com/problems/intersection-of-two-arrays/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/349.Intersection%20of%20Two%20Arrays.py) |
 |367|[Valid Perfect Square](https://www.leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/367.Valid%20Perfect%20Square.py) |
+|374|[Guess Number Higher or Lower](https://www.leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/374.Guess%20Number%20Higher%20or%20Lower.py) |
 |387|[First Unique Character in a String](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/387.First%20Unique%20Character%20in%20a%20String.py) |
 |389|[Find the Difference](https://www.leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/389.Find%20the%20Difference.py) |
 |392|[Is Subsequence](https://www.leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/392.Is%20Subsequence.py) |
