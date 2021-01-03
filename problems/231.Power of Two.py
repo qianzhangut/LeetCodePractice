@@ -10,3 +10,9 @@ class Solution:
  class Solution:
     def isPowerOfFour(self, num):
         return num > 0 and num & (num-1) == 0 
+        
+## use bin
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
+        s = bin(n)[3:]
+        return n !=0 and '1' not in s 
