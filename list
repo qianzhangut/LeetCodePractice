@@ -61,6 +61,7 @@
 344.Reverse String
 345.Reverse Vowels of a String
 349.Intersection of Two Arrays
+350.Intersection of Two Arrays II
 367.Valid Perfect Square
 374.Guess Number Higher or Lower
 387.First Unique Character in a String
@@ -70,6 +71,7 @@
 504.Base 7
 509.Fibonacci Number
 557.Reverse Words in a String III
+561.Array Partition I
 566.Reshape the Matrix
 643.Maximum Average Subarray I
 704.Binary Search
@@ -86,6 +88,7 @@
 867.Transpose Matrix
 884.Uncommon Words from Two Sentences
 917.Reverse Only Letters
+1002.Find Common Characters
 1009.Complement of Base 10 Integer
 1201.Ugly Number III
 1237.Find Positive Integer Solution for a Given Equation
