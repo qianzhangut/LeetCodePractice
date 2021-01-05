@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode practice problems.
 |344|[Reverse String](https://www.leetcode.com/problems/reverse-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/344.Reverse%20String.py) |
 |345|[Reverse Vowels of a String](https://www.leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/345.Reverse%20Vowels%20of%20a%20String.py) |
 |349|[Intersection of Two Arrays](https://www.leetcode.com/problems/intersection-of-two-arrays/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/349.Intersection%20of%20Two%20Arrays.py) |
+|350|[Intersection of Two Arrays II](https://www.leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/350.Intersection%20of%20Two%20Arrays%20II.py) |
 |367|[Valid Perfect Square](https://www.leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/367.Valid%20Perfect%20Square.py) |
 |374|[Guess Number Higher or Lower](https://www.leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/374.Guess%20Number%20Higher%20or%20Lower.py) |
 |387|[First Unique Character in a String](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/387.First%20Unique%20Character%20in%20a%20String.py) |
@@ -81,6 +82,7 @@ This repository contains my solutions to LeetCode practice problems.
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |509|[Fibonacci Number](https://www.leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/509.Fibonacci%20Number.py) |
 |557|[Reverse Words in a String III](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/557.Reverse%20Words%20in%20a%20String%20III.py) |
+|561|[Array Partition I](https://www.leetcode.com/problems/array-partition-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/561.Array%20Partition%20I.py) |
 |566|[Reshape the Matrix](https://www.leetcode.com/problems/reshape-the-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/566.Reshape%20the%20Matrix.py) |
 |643|[Maximum Average Subarray I](https://www.leetcode.com/problems/maximum-average-subarray-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/643.Maximum%20Average%20Subarray%20I.py) |
 |704|[Binary Search](https://www.leetcode.com/problems/binary-search/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/704.Binary%20Search.py) |
@@ -97,6 +99,7 @@ This repository contains my solutions to LeetCode practice problems.
 |867|[Transpose Matrix](https://www.leetcode.com/problems/transpose-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/867.Transpose%20Matrix.py) |
 |884|[Uncommon Words from Two Sentences](https://www.leetcode.com/problems/uncommon-words-from-two-sentences/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/884.Uncommon%20Words%20from%20Two%20Sentences.py) |
 |917|[Reverse Only Letters](https://www.leetcode.com/problems/reverse-only-letters/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/917.Reverse%20Only%20Letters.py) |
+|1002|[Find Common Characters](https://www.leetcode.com/problems/find-common-characters/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1002.Find%20Common%20Characters.py) |
 |1009|[Complement of Base 10 Integer](https://www.leetcode.com/problems/complement-of-base-10-integer/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1009.Complement%20of%20Base%2010%20Integer.py) |
 |1201|[Ugly Number III](https://www.leetcode.com/problems/ugly-number-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1201.Ugly%20Number%20III.py) |
 |1237|[Find Positive Integer Solution for a Given Equation](https://www.leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1237.Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py) |
