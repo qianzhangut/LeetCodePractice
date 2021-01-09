@@ -68,6 +68,7 @@
 389.Find the Difference
 392.Is Subsequence
 405.Convert a Number to Hexadecimal
+412.Fizz Buzz
 504.Base 7
 509.Fibonacci Number
 557.Reverse Words in a String III
@@ -88,6 +89,7 @@
 867.Transpose Matrix
 884.Uncommon Words from Two Sentences
 917.Reverse Only Letters
+921.Minimum Add to Make Parentheses Valid
 1002.Find Common Characters
 1009.Complement of Base 10 Integer
 1201.Ugly Number III
