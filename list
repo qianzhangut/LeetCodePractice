@@ -26,6 +26,7 @@
 125.Valid Palindrome
 136.Single Number
 141.Linked List Cycle
+151.Reverse Words in a String
 168.Excel Sheet Column Title
 169.Majority Element
 171.Excel Sheet Column Number
@@ -64,6 +65,7 @@
 350.Intersection of Two Arrays II
 367.Valid Perfect Square
 374.Guess Number Higher or Lower
+383.Ransom Note
 387.First Unique Character in a String
 389.Find the Difference
 392.Is Subsequence
@@ -79,6 +81,7 @@
 693.Binary Number with Alternating Bits
 704.Binary Search
 707.Design Linked List
+709.To Lower Case
 719.Find K-th Smallest Pair Distance
 728.Self Dividing Numbers
 729.My Calendar I
