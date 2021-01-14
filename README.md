@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode practice problems.
 |125|[Valid Palindrome](https://www.leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/125.Valid%20Palindrome.py) |
 |136|[Single Number](https://www.leetcode.com/problems/single-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/136.Single%20Number.py) |
 |141|[Linked List Cycle](https://www.leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/141.Linked%20List%20Cycle.py) |
+|151|[Reverse Words in a String](https://www.leetcode.com/problems/reverse-words-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/151.Reverse%20Words%20in%20a%20String.py) |
 |168|[Excel Sheet Column Title](https://www.leetcode.com/problems/excel-sheet-column-title/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/168.Excel%20Sheet%20Column%20Title.py) |
 |169|[Majority Element](https://www.leetcode.com/problems/majority-element/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/169.Majority%20Element.py) |
 |171|[Excel Sheet Column Number](https://www.leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/171.Excel%20Sheet%20Column%20Number.py) |
@@ -75,6 +76,7 @@ This repository contains my solutions to LeetCode practice problems.
 |350|[Intersection of Two Arrays II](https://www.leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/350.Intersection%20of%20Two%20Arrays%20II.py) |
 |367|[Valid Perfect Square](https://www.leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/367.Valid%20Perfect%20Square.py) |
 |374|[Guess Number Higher or Lower](https://www.leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/374.Guess%20Number%20Higher%20or%20Lower.py) |
+|383|[Ransom Note](https://www.leetcode.com/problems/ransom-note/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/383.Ransom%20Note.py) |
 |387|[First Unique Character in a String](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/387.First%20Unique%20Character%20in%20a%20String.py) |
 |389|[Find the Difference](https://www.leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/389.Find%20the%20Difference.py) |
 |392|[Is Subsequence](https://www.leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/392.Is%20Subsequence.py) |
@@ -90,6 +92,7 @@ This repository contains my solutions to LeetCode practice problems.
 |693|[Binary Number with Alternating Bits](https://www.leetcode.com/problems/binary-number-with-alternating-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/693.Binary%20Number%20with%20Alternating%20Bits.py) |
 |704|[Binary Search](https://www.leetcode.com/problems/binary-search/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/704.Binary%20Search.py) |
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
+|709|[To Lower Case](https://www.leetcode.com/problems/to-lower-case/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/709.To%20Lower%20Case.py) |
 |719|[Find K-th Smallest Pair Distance](https://www.leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/719.Find%20K-th%20Smallest%20Pair%20Distance.py) |
 |728|[Self Dividing Numbers](https://www.leetcode.com/problems/self-dividing-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/728.Self%20Dividing%20Numbers.py) |
 |729|[My Calendar I](https://www.leetcode.com/problems/my-calendar-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/729.My%20Calendar%20I.py) |
