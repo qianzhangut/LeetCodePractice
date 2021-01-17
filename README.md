@@ -30,12 +30,14 @@ This repository contains my solutions to LeetCode practice problems.
 |067|[Add Binary](https://www.leetcode.com/problems/add-binary/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/067.Add%20Binary.py) |
 |069|[Sqrtx](https://www.leetcode.com/problems/sqrtx/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/069.Sqrtx.py) |
 |070|[Climbing Stairs](https://www.leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/070.Climbing%20Stairs.py) |
+|78|[Subsets](https://www.leetcode.com/problems/subsets/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/78.Subsets.py) |
 |083|[Remove Duplicates from Sorted List](https://www.leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/083.Remove%20Duplicates%20from%20Sorted%20List.py) |
 |088|[Merge Sorted Array](https://www.leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/088.Merge%20Sorted%20Array.py) |
 |121|[Best Time to Buy and Sell Stock](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 |122|[Best Time to Buy and Sell Stock II](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) |
 |125|[Valid Palindrome](https://www.leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/125.Valid%20Palindrome.py) |
 |136|[Single Number](https://www.leetcode.com/problems/single-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/136.Single%20Number.py) |
+|137|[Single Number II](https://www.leetcode.com/problems/single-number-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/137.Single%20Number%20II.py) |
 |141|[Linked List Cycle](https://www.leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/141.Linked%20List%20Cycle.py) |
 |151|[Reverse Words in a String](https://www.leetcode.com/problems/reverse-words-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/151.Reverse%20Words%20in%20a%20String.py) |
 |168|[Excel Sheet Column Title](https://www.leetcode.com/problems/excel-sheet-column-title/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/168.Excel%20Sheet%20Column%20Title.py) |
