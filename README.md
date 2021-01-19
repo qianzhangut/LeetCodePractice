@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode practice problems.
 |028|[Implement strStr](https://www.leetcode.com/problems/implement-strstr/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/028.Implement%20strStr.py) |
 |035|[Search Insert Position](https://www.leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/035.Search%20Insert%20Position.py) |
 |038|[Count and Say](https://www.leetcode.com/problems/count-and-say/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/038.Count%20and%20Say.py) |
+|39|[Combination Sum](https://www.leetcode.com/problems/combination-sum/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/39.Combination%20Sum.py) |
 |053|[Maximum Subarray](https://www.leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/053.Maximum%20Subarray.py) |
 |058|[Length of Last Word](https://www.leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/058.Length%20of%20Last%20Word.py) |
 |066|[Plus One](https://www.leetcode.com/problems/plus-one/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/066.Plus%20One.py) |
@@ -36,6 +37,7 @@ This repository contains my solutions to LeetCode practice problems.
 |121|[Best Time to Buy and Sell Stock](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 |122|[Best Time to Buy and Sell Stock II](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) |
 |125|[Valid Palindrome](https://www.leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/125.Valid%20Palindrome.py) |
+|128|[Longest Consecutive Sequence](https://www.leetcode.com/problems/longest-consecutive-sequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/128.Longest%20Consecutive%20Sequence.py) |
 |136|[Single Number](https://www.leetcode.com/problems/single-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/136.Single%20Number.py) |
 |137|[Single Number II](https://www.leetcode.com/problems/single-number-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/137.Single%20Number%20II.py) |
 |141|[Linked List Cycle](https://www.leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/141.Linked%20List%20Cycle.py) |
@@ -61,6 +63,7 @@ This repository contains my solutions to LeetCode practice problems.
 |228|[Summary Ranges](https://www.leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/228.Summary%20Ranges.py) |
 |231|[Power of Two](https://www.leetcode.com/problems/power-of-two/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/231.Power%20of%20Two.py) |
 |237|[Delete Node in a Linked List](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/237.Delete%20Node%20in%20a%20Linked%20List.py) |
+|238|[Product of Array Except Self](https://www.leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/238.Product%20of%20Array%20Except%20Self.py) |
 |242|[Valid Anagram](https://www.leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/242.Valid%20Anagram.py) |
 |258|[Add Digits](https://www.leetcode.com/problems/add-digits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/258.Add%20Digits.py) |
 |263|[Ugly Number](https://www.leetcode.com/problems/ugly-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/263.Ugly%20Number.py) |
@@ -87,6 +90,7 @@ This repository contains my solutions to LeetCode practice problems.
 |448|[Find All Numbers Disappeared in an Array](https://www.leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) |
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |509|[Fibonacci Number](https://www.leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/509.Fibonacci%20Number.py) |
+|541|[Reverse String II](https://www.leetcode.com/problems/reverse-string-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/541.Reverse%20String%20II.py) |
 |557|[Reverse Words in a String III](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/557.Reverse%20Words%20in%20a%20String%20III.py) |
 |561|[Array Partition I](https://www.leetcode.com/problems/array-partition-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/561.Array%20Partition%20I.py) |
 |566|[Reshape the Matrix](https://www.leetcode.com/problems/reshape-the-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/566.Reshape%20the%20Matrix.py) |
