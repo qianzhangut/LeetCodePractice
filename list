@@ -13,6 +13,7 @@
 028.Implement strStr
 035.Search Insert Position
 038.Count and Say
+39.Combination Sum
 053.Maximum Subarray
 058.Length of Last Word
 066.Plus One
@@ -25,6 +26,7 @@
 121.Best Time to Buy and Sell Stock
 122.Best Time to Buy and Sell Stock II
 125.Valid Palindrome
+128.Longest Consecutive Sequence
 136.Single Number
 137.Single Number II
 141.Linked List Cycle
@@ -50,6 +52,7 @@
 228.Summary Ranges
 231.Power of Two
 237.Delete Node in a Linked List
+238.Product of Array Except Self
 242.Valid Anagram
 258.Add Digits
 263.Ugly Number
@@ -76,6 +79,7 @@
 448.Find All Numbers Disappeared in an Array
 504.Base 7
 509.Fibonacci Number
+541.Reverse String II
 557.Reverse Words in a String III
 561.Array Partition I
 566.Reshape the Matrix
