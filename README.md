@@ -25,12 +25,14 @@ This repository contains my solutions to LeetCode practice problems.
 |035|[Search Insert Position](https://www.leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/035.Search%20Insert%20Position.py) |
 |038|[Count and Say](https://www.leetcode.com/problems/count-and-say/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/038.Count%20and%20Say.py) |
 |39|[Combination Sum](https://www.leetcode.com/problems/combination-sum/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/39.Combination%20Sum.py) |
+|40|[Combination Sum II](https://www.leetcode.com/problems/combination-sum-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/40.Combination%20Sum%20II.py) |
 |053|[Maximum Subarray](https://www.leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/053.Maximum%20Subarray.py) |
 |058|[Length of Last Word](https://www.leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/058.Length%20of%20Last%20Word.py) |
 |066|[Plus One](https://www.leetcode.com/problems/plus-one/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/066.Plus%20One.py) |
 |067|[Add Binary](https://www.leetcode.com/problems/add-binary/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/067.Add%20Binary.py) |
 |069|[Sqrtx](https://www.leetcode.com/problems/sqrtx/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/069.Sqrtx.py) |
 |070|[Climbing Stairs](https://www.leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/070.Climbing%20Stairs.py) |
+|77|[Combinations](https://www.leetcode.com/problems/combinations/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/77.Combinations.py) |
 |78|[Subsets](https://www.leetcode.com/problems/subsets/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/78.Subsets.py) |
 |083|[Remove Duplicates from Sorted List](https://www.leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/083.Remove%20Duplicates%20from%20Sorted%20List.py) |
 |088|[Merge Sorted Array](https://www.leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/088.Merge%20Sorted%20Array.py) |
