@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode practice problems.
 |078|[Subsets](https://www.leetcode.com/problems/subsets/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/078.Subsets.py) |
 |083|[Remove Duplicates from Sorted List](https://www.leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/083.Remove%20Duplicates%20from%20Sorted%20List.py) |
 |088|[Merge Sorted Array](https://www.leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/088.Merge%20Sorted%20Array.py) |
+|090|[Subsets II](https://www.leetcode.com/problems/subsets-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/090.Subsets%20II.py) |
 |121|[Best Time to Buy and Sell Stock](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 |122|[Best Time to Buy and Sell Stock II](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) |
 |125|[Valid Palindrome](https://www.leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/125.Valid%20Palindrome.py) |
@@ -60,6 +61,7 @@ This repository contains my solutions to LeetCode practice problems.
 |202|[Happy Number](https://www.leetcode.com/problems/happy-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/202.Happy%20Number.py) |
 |203|[Remove Linked List Elements](https://www.leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/203.Remove%20Linked%20List%20Elements.py) |
 |204|[Count Primes](https://www.leetcode.com/problems/count-primes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/204.Count%20Primes.py) |
+|216|[Combination Sum III](https://www.leetcode.com/problems/combination-sum-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/216.Combination%20Sum%20III.py) |
 |217|[Contains Duplicate](https://www.leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/217.Contains%20Duplicate.py) |
 |219|[Contains Duplicate II](https://www.leetcode.com/problems/contains-duplicate-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/219.Contains%20Duplicate%20II.py) |
 |228|[Summary Ranges](https://www.leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/228.Summary%20Ranges.py) |
@@ -97,6 +99,7 @@ This repository contains my solutions to LeetCode practice problems.
 |561|[Array Partition I](https://www.leetcode.com/problems/array-partition-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/561.Array%20Partition%20I.py) |
 |566|[Reshape the Matrix](https://www.leetcode.com/problems/reshape-the-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/566.Reshape%20the%20Matrix.py) |
 |643|[Maximum Average Subarray I](https://www.leetcode.com/problems/maximum-average-subarray-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/643.Maximum%20Average%20Subarray%20I.py) |
+|674|[Longest Continuous Increasing Subsequence](https://www.leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/674.Longest%20Continuous%20Increasing%20Subsequence.py) |
 |693|[Binary Number with Alternating Bits](https://www.leetcode.com/problems/binary-number-with-alternating-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/693.Binary%20Number%20with%20Alternating%20Bits.py) |
 |704|[Binary Search](https://www.leetcode.com/problems/binary-search/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/704.Binary%20Search.py) |
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
