@@ -25,6 +25,7 @@
 078.Subsets
 083.Remove Duplicates from Sorted List
 088.Merge Sorted Array
+090.Subsets II
 121.Best Time to Buy and Sell Stock
 122.Best Time to Buy and Sell Stock II
 125.Valid Palindrome
@@ -49,6 +50,7 @@
 202.Happy Number
 203.Remove Linked List Elements
 204.Count Primes
+216.Combination Sum III
 217.Contains Duplicate
 219.Contains Duplicate II
 228.Summary Ranges
@@ -86,6 +88,7 @@
 561.Array Partition I
 566.Reshape the Matrix
 643.Maximum Average Subarray I
+674.Longest Continuous Increasing Subsequence
 693.Binary Number with Alternating Bits
 704.Binary Search
 707.Design Linked List
