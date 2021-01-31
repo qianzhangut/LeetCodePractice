@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode practice problems.
 |026|[Remove Duplicates from Sorted Array](https://www.leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/026.Remove%20Duplicates%20from%20Sorted%20Array.py) |
 |027|[Remove Element](https://www.leetcode.com/problems/remove-element/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/027.Remove%20Element.py) |
 |028|[Implement strStr](https://www.leetcode.com/problems/implement-strstr/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/028.Implement%20strStr.py) |
+|34|[Find First and Last Position of Element in Sorted Array](https://www.leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) |
 |035|[Search Insert Position](https://www.leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/035.Search%20Insert%20Position.py) |
 |038|[Count and Say](https://www.leetcode.com/problems/count-and-say/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/038.Count%20and%20Say.py) |
 |039|[Combination Sum](https://www.leetcode.com/problems/combination-sum/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/039.Combination%20Sum.py) |
@@ -45,6 +46,7 @@ This repository contains my solutions to LeetCode practice problems.
 |137|[Single Number II](https://www.leetcode.com/problems/single-number-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/137.Single%20Number%20II.py) |
 |141|[Linked List Cycle](https://www.leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/141.Linked%20List%20Cycle.py) |
 |151|[Reverse Words in a String](https://www.leetcode.com/problems/reverse-words-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/151.Reverse%20Words%20in%20a%20String.py) |
+|153|[Find Minimum in Rotated Sorted Array](https://www.leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/153.Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
 |168|[Excel Sheet Column Title](https://www.leetcode.com/problems/excel-sheet-column-title/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/168.Excel%20Sheet%20Column%20Title.py) |
 |169|[Majority Element](https://www.leetcode.com/problems/majority-element/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/169.Majority%20Element.py) |
 |171|[Excel Sheet Column Number](https://www.leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/171.Excel%20Sheet%20Column%20Number.py) |
@@ -73,8 +75,10 @@ This repository contains my solutions to LeetCode practice problems.
 |263|[Ugly Number](https://www.leetcode.com/problems/ugly-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/263.Ugly%20Number.py) |
 |264|[Ugly Number II](https://www.leetcode.com/problems/ugly-number-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/264.Ugly%20Number%20II.py) |
 |268|[Missing Number](https://www.leetcode.com/problems/missing-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/268.Missing%20Number.py) |
+|278|[First Bad Version](https://www.leetcode.com/problems/first-bad-version/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/278.First%20Bad%20Version.py) |
 |283|[Move Zeroes](https://www.leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/283.Move%20Zeroes.py) |
 |287|[Find the Duplicate Number](https://www.leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/287.Find%20the%20Duplicate%20Number.py) |
+|292|[Nim Game](https://www.leetcode.com/problems/nim-game/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/292.Nim%20Game.py) |
 |326|[Power of Three](https://www.leetcode.com/problems/power-of-three/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/326.Power%20of%20Three.py) |
 |338|[Counting Bits](https://www.leetcode.com/problems/counting-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/338.Counting%20Bits.py) |
 |342|[Power of Four](https://www.leetcode.com/problems/power-of-four/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/342.Power%20of%20Four.py) |
@@ -91,6 +95,7 @@ This repository contains my solutions to LeetCode practice problems.
 |392|[Is Subsequence](https://www.leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/392.Is%20Subsequence.py) |
 |405|[Convert a Number to Hexadecimal](https://www.leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/405.Convert%20a%20Number%20to%20Hexadecimal.py) |
 |412|[Fizz Buzz](https://www.leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/412.Fizz%20Buzz.py) |
+|434|[Number of Segments in a String](https://www.leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/434.Number%20of%20Segments%20in%20a%20String.py) |
 |448|[Find All Numbers Disappeared in an Array](https://www.leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) |
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |509|[Fibonacci Number](https://www.leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/509.Fibonacci%20Number.py) |
@@ -113,6 +118,7 @@ This repository contains my solutions to LeetCode practice problems.
 |819|[Most Common Word](https://www.leetcode.com/problems/most-common-word/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/819.Most%20Common%20Word.py) |
 |832|[Flipping an Image](https://www.leetcode.com/problems/flipping-an-image/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/832.Flipping%20an%20Image.py) |
 |844|[Backspace String Compare](https://www.leetcode.com/problems/backspace-string-compare/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/844.Backspace%20String%20Compare.py) |
+|852|[Peak Index in a Mountain Array](https://www.leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/852.Peak%20Index%20in%20a%20Mountain%20Array.py) |
 |867|[Transpose Matrix](https://www.leetcode.com/problems/transpose-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/867.Transpose%20Matrix.py) |
 |884|[Uncommon Words from Two Sentences](https://www.leetcode.com/problems/uncommon-words-from-two-sentences/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/884.Uncommon%20Words%20from%20Two%20Sentences.py) |
 |917|[Reverse Only Letters](https://www.leetcode.com/problems/reverse-only-letters/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/917.Reverse%20Only%20Letters.py) |
