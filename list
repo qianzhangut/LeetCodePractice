@@ -11,6 +11,7 @@
 026.Remove Duplicates from Sorted Array
 027.Remove Element
 028.Implement strStr
+34.Find First and Last Position of Element in Sorted Array
 035.Search Insert Position
 038.Count and Say
 039.Combination Sum
@@ -34,6 +35,7 @@
 137.Single Number II
 141.Linked List Cycle
 151.Reverse Words in a String
+153.Find Minimum in Rotated Sorted Array
 168.Excel Sheet Column Title
 169.Majority Element
 171.Excel Sheet Column Number
@@ -62,8 +64,10 @@
 263.Ugly Number
 264.Ugly Number II
 268.Missing Number
+278.First Bad Version
 283.Move Zeroes
 287.Find the Duplicate Number
+292.Nim Game
 326.Power of Three
 338.Counting Bits
 342.Power of Four
@@ -80,6 +84,7 @@
 392.Is Subsequence
 405.Convert a Number to Hexadecimal
 412.Fizz Buzz
+434.Number of Segments in a String
 448.Find All Numbers Disappeared in an Array
 504.Base 7
 509.Fibonacci Number
@@ -102,6 +107,7 @@
 819.Most Common Word
 832.Flipping an Image
 844.Backspace String Compare
+852.Peak Index in a Mountain Array
 867.Transpose Matrix
 884.Uncommon Words from Two Sentences
 917.Reverse Only Letters
