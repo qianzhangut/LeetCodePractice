@@ -95,7 +95,10 @@ This repository contains my solutions to LeetCode practice problems.
 |392|[Is Subsequence](https://www.leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/392.Is%20Subsequence.py) |
 |405|[Convert a Number to Hexadecimal](https://www.leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/405.Convert%20a%20Number%20to%20Hexadecimal.py) |
 |412|[Fizz Buzz](https://www.leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/412.Fizz%20Buzz.py) |
+|414|[Third Maximum Number](https://www.leetcode.com/problems/third-maximum-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/414.Third%20Maximum%20Number.py) |
+|415|[Add Strings](https://www.leetcode.com/problems/add-strings/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/415.Add%20Strings.py) |
 |434|[Number of Segments in a String](https://www.leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/434.Number%20of%20Segments%20in%20a%20String.py) |
+|441|[Arranging Coins](https://www.leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/441.Arranging%20Coins.py) |
 |448|[Find All Numbers Disappeared in an Array](https://www.leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) |
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |509|[Fibonacci Number](https://www.leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/509.Fibonacci%20Number.py) |
@@ -115,6 +118,8 @@ This repository contains my solutions to LeetCode practice problems.
 |729|[My Calendar I](https://www.leetcode.com/problems/my-calendar-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/729.My%20Calendar%20I.py) |
 |744|[Find Smallest Letter Greater Than Target](https://www.leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/744.Find%20Smallest%20Letter%20Greater%20Than%20Target.py) |
 |747|[Largest Number At Least Twice of Others](https://www.leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/747.Largest%20Number%20At%20Least%20Twice%20of%20Others.py) |
+|766|[Toeplitz Matrix](https://www.leetcode.com/problems/toeplitz-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/766.Toeplitz%20Matrix.py) |
+|771|[Jewels and Stones](https://www.leetcode.com/problems/jewels-and-stones/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/771.Jewels%20and%20Stones.py) |
 |792|[Number of Matching Subsequences](https://www.leetcode.com/problems/number-of-matching-subsequences/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/792.Number%20of%20Matching%20Subsequences.py) |
 |819|[Most Common Word](https://www.leetcode.com/problems/most-common-word/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/819.Most%20Common%20Word.py) |
 |832|[Flipping an Image](https://www.leetcode.com/problems/flipping-an-image/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/832.Flipping%20an%20Image.py) |
