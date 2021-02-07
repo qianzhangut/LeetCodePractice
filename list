@@ -84,7 +84,10 @@
 392.Is Subsequence
 405.Convert a Number to Hexadecimal
 412.Fizz Buzz
+414.Third Maximum Number
+415.Add Strings
 434.Number of Segments in a String
+441.Arranging Coins
 448.Find All Numbers Disappeared in an Array
 504.Base 7
 509.Fibonacci Number
@@ -104,6 +107,8 @@
 729.My Calendar I
 744.Find Smallest Letter Greater Than Target
 747.Largest Number At Least Twice of Others
+766.Toeplitz Matrix
+771.Jewels and Stones
 792.Number of Matching Subsequences
 819.Most Common Word
 832.Flipping an Image
