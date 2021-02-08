@@ -121,6 +121,7 @@ This repository contains my solutions to LeetCode practice problems.
 |766|[Toeplitz Matrix](https://www.leetcode.com/problems/toeplitz-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/766.Toeplitz%20Matrix.py) |
 |771|[Jewels and Stones](https://www.leetcode.com/problems/jewels-and-stones/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/771.Jewels%20and%20Stones.py) |
 |792|[Number of Matching Subsequences](https://www.leetcode.com/problems/number-of-matching-subsequences/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/792.Number%20of%20Matching%20Subsequences.py) |
+|796|[Rotate String](https://www.leetcode.com/problems/rotate-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/796.Rotate%20String.py) |
 |819|[Most Common Word](https://www.leetcode.com/problems/most-common-word/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/819.Most%20Common%20Word.py) |
 |832|[Flipping an Image](https://www.leetcode.com/problems/flipping-an-image/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/832.Flipping%20an%20Image.py) |
 |844|[Backspace String Compare](https://www.leetcode.com/problems/backspace-string-compare/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/844.Backspace%20String%20Compare.py) |
