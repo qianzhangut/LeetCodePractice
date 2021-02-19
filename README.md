@@ -100,8 +100,11 @@ This repository contains my solutions to LeetCode practice problems.
 |434|[Number of Segments in a String](https://www.leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/434.Number%20of%20Segments%20in%20a%20String.py) |
 |441|[Arranging Coins](https://www.leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/441.Arranging%20Coins.py) |
 |448|[Find All Numbers Disappeared in an Array](https://www.leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) |
+|495|[Teemo Attacking](https://www.leetcode.com/problems/teemo-attacking/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/495.Teemo%20Attacking.py) |
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |509|[Fibonacci Number](https://www.leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/509.Fibonacci%20Number.py) |
+|537|[Complex Number Multiplication](https://www.leetcode.com/problems/complex-number-multiplication/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/537.Complex%20Number%20Multiplication.py) |
+|539|[Minimum Time Difference](https://www.leetcode.com/problems/minimum-time-difference/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/539.Minimum%20Time%20Difference.py) |
 |541|[Reverse String II](https://www.leetcode.com/problems/reverse-string-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/541.Reverse%20String%20II.py) |
 |557|[Reverse Words in a String III](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/557.Reverse%20Words%20in%20a%20String%20III.py) |
 |561|[Array Partition I](https://www.leetcode.com/problems/array-partition-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/561.Array%20Partition%20I.py) |
