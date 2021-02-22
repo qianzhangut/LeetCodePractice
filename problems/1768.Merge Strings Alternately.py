@@ -7,9 +7,5 @@ class Solution:
             res += word1[p1]
             res += word2[p1]
             p1 += 1
-        if len(word1) == len(word2):
-            return res
-        elif p1 == len(word2):
-            return res+word1[p1:]
-        else:
-            return res+word2[p1:]
+        
+        return res+word1[p1:]+word2[p1:]
