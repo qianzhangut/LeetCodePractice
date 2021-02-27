@@ -91,6 +91,7 @@
 448.Find All Numbers Disappeared in an Array
 495.Teemo Attacking
 504.Base 7
+506.Relative Ranks
 509.Fibonacci Number
 537.Complex Number Multiplication
 539.Minimum Time Difference
@@ -136,5 +137,6 @@
 1287.Element Appearing More Than 25% In Sorted Array
 1292.Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 1556.Thousand Separator
+1732.Find the Highest Altitude
 1763.Longest Nice Substring
 1768.Merge Strings Alternately
