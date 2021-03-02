@@ -93,9 +93,12 @@
 504.Base 7
 506.Relative Ranks
 509.Fibonacci Number
+520.Detect Capital
+521.Longest Uncommon Subsequence I
 537.Complex Number Multiplication
 539.Minimum Time Difference
 541.Reverse String II
+551.Student Attendance Record I
 557.Reverse Words in a String III
 561.Array Partition I
 566.Reshape the Matrix
