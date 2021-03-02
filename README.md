@@ -104,9 +104,12 @@ This repository contains my solutions to LeetCode practice problems.
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |506|[Relative Ranks](https://www.leetcode.com/problems/relative-ranks/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/506.Relative%20Ranks.py) |
 |509|[Fibonacci Number](https://www.leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/509.Fibonacci%20Number.py) |
+|520|[Detect Capital](https://www.leetcode.com/problems/detect-capital/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/520.Detect%20Capital.py) |
+|521|[Longest Uncommon Subsequence I](https://www.leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/521.Longest%20Uncommon%20Subsequence%20I.py) |
 |537|[Complex Number Multiplication](https://www.leetcode.com/problems/complex-number-multiplication/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/537.Complex%20Number%20Multiplication.py) |
 |539|[Minimum Time Difference](https://www.leetcode.com/problems/minimum-time-difference/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/539.Minimum%20Time%20Difference.py) |
 |541|[Reverse String II](https://www.leetcode.com/problems/reverse-string-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/541.Reverse%20String%20II.py) |
+|551|[Student Attendance Record I](https://www.leetcode.com/problems/student-attendance-record-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/551.Student%20Attendance%20Record%20I.py) |
 |557|[Reverse Words in a String III](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/557.Reverse%20Words%20in%20a%20String%20III.py) |
 |561|[Array Partition I](https://www.leetcode.com/problems/array-partition-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/561.Array%20Partition%20I.py) |
 |566|[Reshape the Matrix](https://www.leetcode.com/problems/reshape-the-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/566.Reshape%20the%20Matrix.py) |
