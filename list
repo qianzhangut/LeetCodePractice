@@ -4,6 +4,7 @@
 005.Longest Palindromic Substring
 007.Reverse Integer
 009.Palindrome Number
+011.Container With Most Water
 013.Roman to Integer
 014.Longest Common Prefix
 021.Merge Two Sorted Lists
@@ -67,6 +68,7 @@
 278.First Bad Version
 283.Move Zeroes
 287.Find the Duplicate Number
+290.Word Pattern
 292.Nim Game
 326.Power of Three
 338.Counting Bits
@@ -102,6 +104,7 @@
 557.Reverse Words in a String III
 561.Array Partition I
 566.Reshape the Matrix
+593.Valid Square
 595.Big Countries.sql
 643.Maximum Average Subarray I
 674.Longest Continuous Increasing Subsequence
@@ -110,6 +113,7 @@
 707.Design Linked List
 709.To Lower Case
 719.Find K-th Smallest Pair Distance
+724.Find Pivot Index
 728.Self Dividing Numbers
 729.My Calendar I
 744.Find Smallest Letter Greater Than Target
