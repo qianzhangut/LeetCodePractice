@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode practice problems.
 |005|[Longest Palindromic Substring](https://www.leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/005.Longest%20Palindromic%20Substring.py) |
 |007|[Reverse Integer](https://www.leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/007.Reverse%20Integer.py) |
 |009|[Palindrome Number](https://www.leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/009.Palindrome%20Number.py) |
+|011|[Container With Most Water](https://www.leetcode.com/problems/container-with-most-water/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/011.Container%20With%20Most%20Water.py) |
 |013|[Roman to Integer](https://www.leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/013.Roman%20to%20Integer.py) |
 |014|[Longest Common Prefix](https://www.leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/014.Longest%20Common%20Prefix.py) |
 |021|[Merge Two Sorted Lists](https://www.leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/021.Merge%20Two%20Sorted%20Lists.py) |
@@ -78,6 +79,7 @@ This repository contains my solutions to LeetCode practice problems.
 |278|[First Bad Version](https://www.leetcode.com/problems/first-bad-version/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/278.First%20Bad%20Version.py) |
 |283|[Move Zeroes](https://www.leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/283.Move%20Zeroes.py) |
 |287|[Find the Duplicate Number](https://www.leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/287.Find%20the%20Duplicate%20Number.py) |
+|290|[Word Pattern](https://www.leetcode.com/problems/word-pattern/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/290.Word%20Pattern.py) |
 |292|[Nim Game](https://www.leetcode.com/problems/nim-game/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/292.Nim%20Game.py) |
 |326|[Power of Three](https://www.leetcode.com/problems/power-of-three/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/326.Power%20of%20Three.py) |
 |338|[Counting Bits](https://www.leetcode.com/problems/counting-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/338.Counting%20Bits.py) |
@@ -113,6 +115,7 @@ This repository contains my solutions to LeetCode practice problems.
 |557|[Reverse Words in a String III](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/557.Reverse%20Words%20in%20a%20String%20III.py) |
 |561|[Array Partition I](https://www.leetcode.com/problems/array-partition-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/561.Array%20Partition%20I.py) |
 |566|[Reshape the Matrix](https://www.leetcode.com/problems/reshape-the-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/566.Reshape%20the%20Matrix.py) |
+|593|[Valid Square](https://www.leetcode.com/problems/valid-square/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/593.Valid%20Square.py) |
 |595|[Big Countries](https://www.leetcode.com/problems/big-countries/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/595.Big%20Countries.sql.py) |
 |643|[Maximum Average Subarray I](https://www.leetcode.com/problems/maximum-average-subarray-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/643.Maximum%20Average%20Subarray%20I.py) |
 |674|[Longest Continuous Increasing Subsequence](https://www.leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/674.Longest%20Continuous%20Increasing%20Subsequence.py) |
@@ -121,6 +124,7 @@ This repository contains my solutions to LeetCode practice problems.
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
 |709|[To Lower Case](https://www.leetcode.com/problems/to-lower-case/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/709.To%20Lower%20Case.py) |
 |719|[Find K-th Smallest Pair Distance](https://www.leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/719.Find%20K-th%20Smallest%20Pair%20Distance.py) |
+|724|[Find Pivot Index](https://www.leetcode.com/problems/find-pivot-index/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/724.Find%20Pivot%20Index.py) |
 |728|[Self Dividing Numbers](https://www.leetcode.com/problems/self-dividing-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/728.Self%20Dividing%20Numbers.py) |
 |729|[My Calendar I](https://www.leetcode.com/problems/my-calendar-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/729.My%20Calendar%20I.py) |
 |744|[Find Smallest Letter Greater Than Target](https://www.leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/744.Find%20Smallest%20Letter%20Greater%20Than%20Target.py) |
