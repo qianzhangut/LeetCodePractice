@@ -14,3 +14,14 @@ class Solution:
         ans[1::2] = num1           
         
         return ans
+        
+        
+##simplified version
+class Solution:
+    def sortArrayByParityII(self, nums: List[int]) -> List[int]:
+        ans = [0]*len(nums)
+        ans[::2] = [i for i in nums if i%2==0]
+        ans[1::2] = [j for j in nums if j%2==1]      
+        
+        return ans
+        
