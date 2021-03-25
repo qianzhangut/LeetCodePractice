@@ -107,6 +107,7 @@
 593.Valid Square
 595.Big Countries.sql
 643.Maximum Average Subarray I
+657.Robot Return to Origin
 674.Longest Continuous Increasing Subsequence
 693.Binary Number with Alternating Bits
 704.Binary Search
@@ -146,6 +147,7 @@
 1009.Complement of Base 10 Integer
 1013.Partition Array Into Three Parts With Equal Sum
 1018.Binary Prefix Divisible By 5
+1043.Partition Array for Maximum Sum
 1047.Remove All Adjacent Duplicates In String
 1154.Day of the Year
 1160.Find Words That Can Be Formed by Characters
