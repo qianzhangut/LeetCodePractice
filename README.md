@@ -120,6 +120,7 @@ This repository contains my solutions to LeetCode practice problems.
 |643|[Maximum Average Subarray I](https://www.leetcode.com/problems/maximum-average-subarray-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/643.Maximum%20Average%20Subarray%20I.py) |
 |657|[Robot Return to Origin](https://www.leetcode.com/problems/robot-return-to-origin/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/657.Robot%20Return%20to%20Origin.py) |
 |674|[Longest Continuous Increasing Subsequence](https://www.leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/674.Longest%20Continuous%20Increasing%20Subsequence.py) |
+|682|[Baseball Game](https://www.leetcode.com/problems/baseball-game/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/682.Baseball%20Game.py) |
 |693|[Binary Number with Alternating Bits](https://www.leetcode.com/problems/binary-number-with-alternating-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/693.Binary%20Number%20with%20Alternating%20Bits.py) |
 |704|[Binary Search](https://www.leetcode.com/problems/binary-search/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/704.Binary%20Search.py) |
 |707|[Design Linked List](https://www.leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/707.Design%20Linked%20List.py) |
