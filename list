@@ -119,7 +119,9 @@
 728.Self Dividing Numbers
 729.My Calendar I
 744.Find Smallest Letter Greater Than Target
+746.Min Cost Climbing Stairs
 747.Largest Number At Least Twice of Others
+762.Prime Number of Set Bits in Binary Representation
 766.Toeplitz Matrix
 771.Jewels and Stones
 792.Number of Matching Subsequences
@@ -128,8 +130,10 @@
 832.Flipping an Image
 844.Backspace String Compare
 852.Peak Index in a Mountain Array
+859.Buddy Strings
 867.Transpose Matrix
 884.Uncommon Words from Two Sentences
+896.Monotonic Array
 905.Sort Array By Parity
 908.Smallest Range I
 914.X of a Kind in a Deck of Cards
