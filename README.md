@@ -142,7 +142,9 @@ This repository contains my solutions to LeetCode practice problems.
 |844|[Backspace String Compare](https://www.leetcode.com/problems/backspace-string-compare/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/844.Backspace%20String%20Compare.py) |
 |852|[Peak Index in a Mountain Array](https://www.leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/852.Peak%20Index%20in%20a%20Mountain%20Array.py) |
 |859|[Buddy Strings](https://www.leetcode.com/problems/buddy-strings/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/859.Buddy%20Strings.py) |
+|860|[Lemonade Change](https://www.leetcode.com/problems/lemonade-change/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/860.Lemonade%20Change.py) |
 |867|[Transpose Matrix](https://www.leetcode.com/problems/transpose-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/867.Transpose%20Matrix.py) |
+|868|[Binary Gap](https://www.leetcode.com/problems/binary-gap/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/868.Binary%20Gap.py) |
 |884|[Uncommon Words from Two Sentences](https://www.leetcode.com/problems/uncommon-words-from-two-sentences/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/884.Uncommon%20Words%20from%20Two%20Sentences.py) |
 |896|[Monotonic Array](https://www.leetcode.com/problems/monotonic-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/896.Monotonic%20Array.py) |
 |905|[Sort Array By Parity](https://www.leetcode.com/problems/sort-array-by-parity/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/905.Sort%20Array%20By%20Parity.py) |
@@ -153,6 +155,7 @@ This repository contains my solutions to LeetCode practice problems.
 |922|[Sort Array By Parity II](https://www.leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/922.Sort%20Array%20By%20Parity%20II.py) |
 |929|[Unique Email Addresses](https://www.leetcode.com/problems/unique-email-addresses/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/929.Unique%20Email%20Addresses.py) |
 |942|[DI String Match](https://www.leetcode.com/problems/di-string-match/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/942.DI%20String%20Match.py) |
+|944|[Delete Columns to Make Sorted](https://www.leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/944.Delete%20Columns%20to%20Make%20Sorted.py) |
 |961|[N-Repeated Element in Size 2N Array](https://www.leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/961.N-Repeated%20Element%20in%20Size%202N%20Array.py) |
 |976|[Largest Perimeter Triangle](https://www.leetcode.com/problems/largest-perimeter-triangle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/976.Largest%20Perimeter%20Triangle.py) |
 |977|[Squares of a Sorted Array](https://www.leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/977.Squares%20of%20a%20Sorted%20Array.py) |
