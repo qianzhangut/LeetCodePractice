@@ -131,7 +131,9 @@
 844.Backspace String Compare
 852.Peak Index in a Mountain Array
 859.Buddy Strings
+860.Lemonade Change
 867.Transpose Matrix
+868.Binary Gap
 884.Uncommon Words from Two Sentences
 896.Monotonic Array
 905.Sort Array By Parity
@@ -142,6 +144,7 @@
 922.Sort Array By Parity II
 929.Unique Email Addresses
 942.DI String Match
+944.Delete Columns to Make Sorted
 961.N-Repeated Element in Size 2N Array
 976.Largest Perimeter Triangle
 977.Squares of a Sorted Array
