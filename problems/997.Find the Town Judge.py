@@ -1,4 +1,5 @@
-    def findJudge(self, N, trust):
+class Solution:
+    def findJudge(self, N: int, trust: List[List[int]]) -> int:
         count = [0] * (N + 1)
         for i, j in trust:
             count[i] -= 1
