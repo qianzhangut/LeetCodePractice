@@ -118,6 +118,7 @@ This repository contains my solutions to LeetCode practice problems.
 |593|[Valid Square](https://www.leetcode.com/problems/valid-square/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/593.Valid%20Square.py) |
 |595|[Big Countries](https://www.leetcode.com/problems/big-countries/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/595.Big%20Countries.sql.py) |
 |643|[Maximum Average Subarray I](https://www.leetcode.com/problems/maximum-average-subarray-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/643.Maximum%20Average%20Subarray%20I.py) |
+|648|[Replace Words](https://www.leetcode.com/problems/replace-words/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/648.Replace%20Words.py) |
 |657|[Robot Return to Origin](https://www.leetcode.com/problems/robot-return-to-origin/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/657.Robot%20Return%20to%20Origin.py) |
 |674|[Longest Continuous Increasing Subsequence](https://www.leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/674.Longest%20Continuous%20Increasing%20Subsequence.py) |
 |682|[Baseball Game](https://www.leetcode.com/problems/baseball-game/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/682.Baseball%20Game.py) |
