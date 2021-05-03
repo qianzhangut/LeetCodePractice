@@ -107,6 +107,9 @@
 593.Valid Square
 595.Big Countries.sql
 605.Can Place Flowers
+620.Not Boring Movies.sql
+627.Swap Salary
+628.Maximum Product of Three Numbers
 643.Maximum Average Subarray I
 648.Replace Words
 657.Robot Return to Origin
@@ -123,6 +126,7 @@
 744.Find Smallest Letter Greater Than Target
 746.Min Cost Climbing Stairs
 747.Largest Number At Least Twice of Others
+748.Shortest Completing Word
 762.Prime Number of Set Bits in Binary Representation
 766.Toeplitz Matrix
 771.Jewels and Stones
