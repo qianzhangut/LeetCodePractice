@@ -128,11 +128,19 @@
 747.Largest Number At Least Twice of Others
 748.Shortest Completing Word
 762.Prime Number of Set Bits in Binary Representation
+763.Partition Labels
 766.Toeplitz Matrix
 771.Jewels and Stones
+788.Rotated Digits
 792.Number of Matching Subsequences
 796.Rotate String
+804.Unique Morse Code Words
+806.Number of Lines To Write String
+812.Largest Triangle Area
 819.Most Common Word
+821.Shortest Distance to a Character
+824.Goat Latin
+830.Positions of Large Groups
 832.Flipping an Image
 844.Backspace String Compare
 852.Peak Index in a Mountain Array
