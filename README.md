@@ -102,6 +102,7 @@ This repository contains my solutions to LeetCode practice problems.
 |434|[Number of Segments in a String](https://www.leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/434.Number%20of%20Segments%20in%20a%20String.py) |
 |441|[Arranging Coins](https://www.leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/441.Arranging%20Coins.py) |
 |448|[Find All Numbers Disappeared in an Array](https://www.leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) |
+|453|[Minimum Moves to Equal Array Elements](https://www.leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/453.Minimum%20Moves%20to%20Equal%20Array%20Elements.py) |
 |495|[Teemo Attacking](https://www.leetcode.com/problems/teemo-attacking/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/495.Teemo%20Attacking.py) |
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |506|[Relative Ranks](https://www.leetcode.com/problems/relative-ranks/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/506.Relative%20Ranks.py) |
