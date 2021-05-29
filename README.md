@@ -16,8 +16,10 @@ This repository contains my solutions to LeetCode practice problems.
 |007|[Reverse Integer](https://www.leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/007.Reverse%20Integer.py) |
 |009|[Palindrome Number](https://www.leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/009.Palindrome%20Number.py) |
 |011|[Container With Most Water](https://www.leetcode.com/problems/container-with-most-water/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/011.Container%20With%20Most%20Water.py) |
+|12|[Integer to Roman](https://www.leetcode.com/problems/integer-to-roman/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/12.Integer%20to%20Roman.py) |
 |013|[Roman to Integer](https://www.leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/013.Roman%20to%20Integer.py) |
 |014|[Longest Common Prefix](https://www.leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/014.Longest%20Common%20Prefix.py) |
+|17|[Letter Combinations of a Phone Number](https://www.leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/17.Letter%20Combinations%20of%20a%20Phone%20Number.py) |
 |021|[Merge Two Sorted Lists](https://www.leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/021.Merge%20Two%20Sorted%20Lists.py) |
 |023|[Merge k Sorted Lists](https://www.leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/023.Merge%20k%20Sorted%20Lists.py) |
 |026|[Remove Duplicates from Sorted Array](https://www.leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/026.Remove%20Duplicates%20from%20Sorted%20Array.py) |
