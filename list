@@ -38,12 +38,15 @@
 137.Single Number II
 141.Linked List Cycle
 151.Reverse Words in a String
+152.Maximum Product Subarray
 153.Find Minimum in Rotated Sorted Array
+167.Two Sum II - Input array is sorted
 168.Excel Sheet Column Title
 169.Majority Element
 171.Excel Sheet Column Number
 172.Factorial Trailing Zeroes
 175.Combine Two Tables
+177.Nth Highest Salary.sql
 181.Employees Earning More Than Their Managers
 182.Duplicate Emails
 183.Customers Who Never Order
@@ -51,6 +54,7 @@
 190.Reverse Bits
 191.Number of 1 Bits
 193.Valid Phone Numbers
+195.Tenth Line
 198.House Robber
 202.Happy Number
 203.Remove Linked List Elements
