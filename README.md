@@ -49,12 +49,15 @@ This repository contains my solutions to LeetCode practice problems.
 |137|[Single Number II](https://www.leetcode.com/problems/single-number-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/137.Single%20Number%20II.py) |
 |141|[Linked List Cycle](https://www.leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/141.Linked%20List%20Cycle.py) |
 |151|[Reverse Words in a String](https://www.leetcode.com/problems/reverse-words-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/151.Reverse%20Words%20in%20a%20String.py) |
+|152|[Maximum Product Subarray](https://www.leetcode.com/problems/maximum-product-subarray/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/152.Maximum%20Product%20Subarray.py) |
 |153|[Find Minimum in Rotated Sorted Array](https://www.leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/153.Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
+|167|[Two Sum II - Input array is sorted](https://www.leetcode.com/problems/two-sum-ii---input-array-is-sorted/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py) |
 |168|[Excel Sheet Column Title](https://www.leetcode.com/problems/excel-sheet-column-title/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/168.Excel%20Sheet%20Column%20Title.py) |
 |169|[Majority Element](https://www.leetcode.com/problems/majority-element/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/169.Majority%20Element.py) |
 |171|[Excel Sheet Column Number](https://www.leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/171.Excel%20Sheet%20Column%20Number.py) |
 |172|[Factorial Trailing Zeroes](https://www.leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/172.Factorial%20Trailing%20Zeroes.py) |
 |175|[Combine Two Tables](https://www.leetcode.com/problems/combine-two-tables/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/175.Combine%20Two%20Tables.py) |
+|177|[Nth Highest Salary](https://www.leetcode.com/problems/nth-highest-salary/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/177.Nth%20Highest%20Salary.sql.py) |
 |181|[Employees Earning More Than Their Managers](https://www.leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/181.Employees%20Earning%20More%20Than%20Their%20Managers.py) |
 |182|[Duplicate Emails](https://www.leetcode.com/problems/duplicate-emails/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/182.Duplicate%20Emails.py) |
 |183|[Customers Who Never Order](https://www.leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/183.Customers%20Who%20Never%20Order.py) |
@@ -62,6 +65,7 @@ This repository contains my solutions to LeetCode practice problems.
 |190|[Reverse Bits](https://www.leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/190.Reverse%20Bits.py) |
 |191|[Number of 1 Bits](https://www.leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/191.Number%20of%201%20Bits.py) |
 |193|[Valid Phone Numbers](https://www.leetcode.com/problems/valid-phone-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/193.Valid%20Phone%20Numbers.py) |
+|195|[Tenth Line](https://www.leetcode.com/problems/tenth-line/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/195.Tenth%20Line.py) |
 |198|[House Robber](https://www.leetcode.com/problems/house-robber/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/198.House%20Robber.py) |
 |202|[Happy Number](https://www.leetcode.com/problems/happy-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/202.Happy%20Number.py) |
 |203|[Remove Linked List Elements](https://www.leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/203.Remove%20Linked%20List%20Elements.py) |
