@@ -57,7 +57,9 @@ This repository contains my solutions to LeetCode practice problems.
 |171|[Excel Sheet Column Number](https://www.leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/171.Excel%20Sheet%20Column%20Number.py) |
 |172|[Factorial Trailing Zeroes](https://www.leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/172.Factorial%20Trailing%20Zeroes.py) |
 |175|[Combine Two Tables](https://www.leetcode.com/problems/combine-two-tables/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/175.Combine%20Two%20Tables.py) |
+|176|[Second Highest Salary](https://www.leetcode.com/problems/second-highest-salary/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/176.Second%20Highest%20Salary.sql.py) |
 |177|[Nth Highest Salary](https://www.leetcode.com/problems/nth-highest-salary/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/177.Nth%20Highest%20Salary.sql.py) |
+|178|[Rank Scores](https://www.leetcode.com/problems/rank-scores/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/178.Rank%20Scores.sql.py) |
 |181|[Employees Earning More Than Their Managers](https://www.leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/181.Employees%20Earning%20More%20Than%20Their%20Managers.py) |
 |182|[Duplicate Emails](https://www.leetcode.com/problems/duplicate-emails/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/182.Duplicate%20Emails.py) |
 |183|[Customers Who Never Order](https://www.leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/183.Customers%20Who%20Never%20Order.py) |
@@ -66,6 +68,7 @@ This repository contains my solutions to LeetCode practice problems.
 |191|[Number of 1 Bits](https://www.leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/191.Number%20of%201%20Bits.py) |
 |193|[Valid Phone Numbers](https://www.leetcode.com/problems/valid-phone-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/193.Valid%20Phone%20Numbers.py) |
 |195|[Tenth Line](https://www.leetcode.com/problems/tenth-line/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/195.Tenth%20Line.py) |
+|196|[Delete Duplicate Emails](https://www.leetcode.com/problems/delete-duplicate-emails/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/196.Delete%20Duplicate%20Emails.sql.py) |
 |198|[House Robber](https://www.leetcode.com/problems/house-robber/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/198.House%20Robber.py) |
 |202|[Happy Number](https://www.leetcode.com/problems/happy-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/202.Happy%20Number.py) |
 |203|[Remove Linked List Elements](https://www.leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/203.Remove%20Linked%20List%20Elements.py) |
