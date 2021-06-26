@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode practice problems.
 |189|[Rotate Array](https://www.leetcode.com/problems/rotate-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/189.Rotate%20Array.py) |
 |190|[Reverse Bits](https://www.leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/190.Reverse%20Bits.py) |
 |191|[Number of 1 Bits](https://www.leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/191.Number%20of%201%20Bits.py) |
+|192|[Word Frequency](https://www.leetcode.com/problems/word-frequency/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/192.Word%20Frequency.py) |
 |193|[Valid Phone Numbers](https://www.leetcode.com/problems/valid-phone-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/193.Valid%20Phone%20Numbers.py) |
 |195|[Tenth Line](https://www.leetcode.com/problems/tenth-line/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/195.Tenth%20Line.py) |
 |196|[Delete Duplicate Emails](https://www.leetcode.com/problems/delete-duplicate-emails/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/196.Delete%20Duplicate%20Emails.sql.py) |
