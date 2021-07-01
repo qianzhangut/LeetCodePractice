@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode practice problems.
 |128|[Longest Consecutive Sequence](https://www.leetcode.com/problems/longest-consecutive-sequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/128.Longest%20Consecutive%20Sequence.py) |
 |136|[Single Number](https://www.leetcode.com/problems/single-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/136.Single%20Number.py) |
 |137|[Single Number II](https://www.leetcode.com/problems/single-number-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/137.Single%20Number%20II.py) |
+|139|[Word Break](https://www.leetcode.com/problems/word-break/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/139.Word%20Break.py) |
 |141|[Linked List Cycle](https://www.leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/141.Linked%20List%20Cycle.py) |
 |151|[Reverse Words in a String](https://www.leetcode.com/problems/reverse-words-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/151.Reverse%20Words%20in%20a%20String.py) |
 |152|[Maximum Product Subarray](https://www.leetcode.com/problems/maximum-product-subarray/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/152.Maximum%20Product%20Subarray.py) |
@@ -113,6 +114,7 @@ This repository contains my solutions to LeetCode practice problems.
 |441|[Arranging Coins](https://www.leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/441.Arranging%20Coins.py) |
 |448|[Find All Numbers Disappeared in an Array](https://www.leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) |
 |453|[Minimum Moves to Equal Array Elements](https://www.leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/453.Minimum%20Moves%20to%20Equal%20Array%20Elements.py) |
+|492|[Construct the Rectangle](https://www.leetcode.com/problems/construct-the-rectangle/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/492.Construct%20the%20Rectangle.py) |
 |495|[Teemo Attacking](https://www.leetcode.com/problems/teemo-attacking/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/495.Teemo%20Attacking.py) |
 |504|[Base 7](https://www.leetcode.com/problems/base-7/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/504.Base%207.py) |
 |506|[Relative Ranks](https://www.leetcode.com/problems/relative-ranks/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/506.Relative%20Ranks.py) |
@@ -214,3 +216,4 @@ This repository contains my solutions to LeetCode practice problems.
 |1732|[Find the Highest Altitude](https://www.leetcode.com/problems/find-the-highest-altitude/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1732.Find%20the%20Highest%20Altitude.py) |
 |1763|[Longest Nice Substring](https://www.leetcode.com/problems/longest-nice-substring/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1763.Longest%20Nice%20Substring.py) |
 |1768|[Merge Strings Alternately](https://www.leetcode.com/problems/merge-strings-alternately/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1768.Merge%20Strings%20Alternately.py) |
+|1913|[Maximum Product Difference Between Two Pairs](https://www.leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1913.Maximum%20Product%20Difference%20Between%20Two%20Pairs.py) |
