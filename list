@@ -36,6 +36,7 @@
 128.Longest Consecutive Sequence
 136.Single Number
 137.Single Number II
+139.Word Break
 141.Linked List Cycle
 151.Reverse Words in a String
 152.Maximum Product Subarray
@@ -102,6 +103,7 @@
 441.Arranging Coins
 448.Find All Numbers Disappeared in an Array
 453.Minimum Moves to Equal Array Elements
+492.Construct the Rectangle
 495.Teemo Attacking
 504.Base 7
 506.Relative Ranks
@@ -203,3 +205,4 @@
 1732.Find the Highest Altitude
 1763.Longest Nice Substring
 1768.Merge Strings Alternately
+1913.Maximum Product Difference Between Two Pairs
