@@ -71,6 +71,7 @@ This repository contains my solutions to LeetCode practice problems.
 |193|[Valid Phone Numbers](https://www.leetcode.com/problems/valid-phone-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/193.Valid%20Phone%20Numbers.py) |
 |195|[Tenth Line](https://www.leetcode.com/problems/tenth-line/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/195.Tenth%20Line.py) |
 |196|[Delete Duplicate Emails](https://www.leetcode.com/problems/delete-duplicate-emails/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/196.Delete%20Duplicate%20Emails.sql.py) |
+|197|[Rising Temperature](https://www.leetcode.com/problems/rising-temperature/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/197.Rising%20Temperature.sql.py) |
 |198|[House Robber](https://www.leetcode.com/problems/house-robber/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/198.House%20Robber.py) |
 |202|[Happy Number](https://www.leetcode.com/problems/happy-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/202.Happy%20Number.py) |
 |203|[Remove Linked List Elements](https://www.leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/203.Remove%20Linked%20List%20Elements.py) |
@@ -98,6 +99,7 @@ This repository contains my solutions to LeetCode practice problems.
 |343|[Integer Break](https://www.leetcode.com/problems/integer-break/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/343.Integer%20Break.py) |
 |344|[Reverse String](https://www.leetcode.com/problems/reverse-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/344.Reverse%20String.py) |
 |345|[Reverse Vowels of a String](https://www.leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/345.Reverse%20Vowels%20of%20a%20String.py) |
+|347|[Top K Frequent Elements](https://www.leetcode.com/problems/top-k-frequent-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/347.Top%20K%20Frequent%20Elements.py) |
 |349|[Intersection of Two Arrays](https://www.leetcode.com/problems/intersection-of-two-arrays/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/349.Intersection%20of%20Two%20Arrays.py) |
 |350|[Intersection of Two Arrays II](https://www.leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/350.Intersection%20of%20Two%20Arrays%20II.py) |
 |367|[Valid Perfect Square](https://www.leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/367.Valid%20Perfect%20Square.py) |
@@ -216,4 +218,5 @@ This repository contains my solutions to LeetCode practice problems.
 |1732|[Find the Highest Altitude](https://www.leetcode.com/problems/find-the-highest-altitude/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1732.Find%20the%20Highest%20Altitude.py) |
 |1763|[Longest Nice Substring](https://www.leetcode.com/problems/longest-nice-substring/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1763.Longest%20Nice%20Substring.py) |
 |1768|[Merge Strings Alternately](https://www.leetcode.com/problems/merge-strings-alternately/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1768.Merge%20Strings%20Alternately.py) |
+|1903|[Largest Odd Number in String](https://www.leetcode.com/problems/largest-odd-number-in-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1903.Largest%20Odd%20Number%20in%20String.py) |
 |1913|[Maximum Product Difference Between Two Pairs](https://www.leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1913.Maximum%20Product%20Difference%20Between%20Two%20Pairs.py) |
