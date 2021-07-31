@@ -19,6 +19,7 @@
 038.Count and Say
 039.Combination Sum
 040.Combination Sum II
+46.Permutations
 053.Maximum Subarray
 058.Length of Last Word
 066.Plus One
@@ -98,6 +99,7 @@
 389.Find the Difference
 392.Is Subsequence
 405.Convert a Number to Hexadecimal
+409.Longest Palindrome
 412.Fizz Buzz
 414.Third Maximum Number
 415.Add Strings
@@ -210,3 +212,7 @@
 1903.Largest Odd Number in String
 1909.Remove One Element to Make the Array Strictly Increasing
 1913.Maximum Product Difference Between Two Pairs
+1929.Concatenation of Array
+1935.Maximum Number of Words You Can Type
+1941.Check if All Characters Have Equal Number of Occurrences
+1945.Sum of Digits of String After Convert
