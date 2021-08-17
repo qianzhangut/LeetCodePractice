@@ -5,3 +5,12 @@ class Solution:
         target =sum([(ord(f)-ord('a'))*(10**(len(targetWord)-1-i)) for i,f in enumerate(targetWord)])
         
         return first + second == target
+        
+        
+class Solution:
+    def isSumEqual(self, firstWord: str, secondWord: str, targetWord: str) -> bool:
+        first = int("".join([str(ord(i)-ord('a')) for i in firstWord]))
+        second =int("".join([str(ord(i)-ord('a')) for i in secondWord]))
+        target =int("".join([str(ord(i)-ord('a')) for i in targetWord]))
+        
+        return first + second == target
