@@ -213,10 +213,13 @@
 1796.Second Largest Digit in a String
 1812.Determine Color of a Chessboard Square
 1837.Sum of Digits in Base K
+1844.Replace All Digits with Characters
 1859.Sorting the Sentence
 1869.Longer Contiguous Segments of Ones than Zeros
 1876.Substrings of Size Three with Distinct Characters
 1880.Check if Word Equals Summation of Two Words
+1886.Determine Whether Matrix Can Be Obtained By Rotation
+1893.Check if All the Integers in a Range Are Covered
 1897.Redistribute Characters to Make All Strings Equal
 1903.Largest Odd Number in String
 1909.Remove One Element to Make the Array Strictly Increasing
@@ -229,3 +232,5 @@
 1952.Three Divisors
 1957.Delete Characters to Make Fancy String
 1961.Check If String Is a Prefix of Array
+1991.Find the Middle Index in Array
+2000.Reverse Prefix of Word
