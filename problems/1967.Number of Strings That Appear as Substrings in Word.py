@@ -6,3 +6,9 @@ class Solution:
                 cnt += 1
                 
         return cnt
+        
+# one line
+
+class Solution:
+    def numOfStrings(self, patterns: List[str], word: str) -> int:
+        return sum([i in word for i in patterns])
