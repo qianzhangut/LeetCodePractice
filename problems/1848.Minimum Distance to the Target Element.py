@@ -6,3 +6,7 @@ class Solution:
                 res = min(res, abs(i-start))
                 
         return res
+        
+        
+##one line
+return min([abs(i-start) for i in range(len(nums)) if nums[i]==target])
