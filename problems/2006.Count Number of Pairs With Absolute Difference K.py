@@ -7,3 +7,11 @@ class Solution:
                     cnt += 1
         return cnt
     
+ # python permutations
+ class Solution:
+    def countKDifference(self, nums: List[int], k: int) -> int:
+        cnt = 0
+        for i, j in permutations(nums, 2): 
+            if (i - j) == k: cnt += 1
+        return cnt
+    
