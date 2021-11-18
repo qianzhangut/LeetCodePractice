@@ -215,6 +215,7 @@
 1779.Find Nearest Point That Has the Same X or Y Coordinate
 1796.Second Largest Digit in a String
 1812.Determine Color of a Chessboard Square
+1816.Truncate Sentence
 1822.Sign of the Product of an Array
 1837.Sum of Digits in Base K
 1844.Replace All Digits with Characters
@@ -239,13 +240,16 @@
 1957.Delete Characters to Make Fancy String
 1961.Check If String Is a Prefix of Array
 1967.Number of Strings That Appear as Substrings in Word
+1974.Minimum Time to Type Word Using Special Typewriter
 1980.Find Unique Binary String
 1991.Find the Middle Index in Array
 2000.Reverse Prefix of Word
 2006.Count Number of Pairs With Absolute Difference K
 2011.Final Value of Variable After Performing Operations
+2016.Maximum Difference Between Increasing Elements
 2023.Number of Pairs of Strings With Concatenation Equal to Target
 2042.Check if Numbers Are Ascending in a Sentence
 2047.Number of Valid Words in a Sentence
 2053.Kth Distinct String in an Array
 2057.Smallest Index With Equal Value
+2068.Check Whether Two Strings are Almost Equivalent
