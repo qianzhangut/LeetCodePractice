@@ -18,7 +18,7 @@ class Solution:
         for i in range(len(colors)):
                 if colors[i] != colors[0]:
                     ans = max(ans, abs(i-0))
-        for j in range(len(colors)):
-                if colors[j] !=colors[-1]:
-                    ans = max(ans, abs(len(colors)-j-1))
+
+                if colors[i] !=colors[-1]:
+                    ans = max(ans, abs(len(colors)-i-1))
         return ans
