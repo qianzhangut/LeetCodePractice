@@ -1,3 +1,5 @@
+#brutal force
+
 class Solution:
     def countWords(self, words1: List[str], words2: List[str]) -> int:
         dw1, dw2, cnt  = {}, {}, 0
@@ -12,3 +14,11 @@ class Solution:
                 cnt += 1
             
         return cnt
+ 
+#collector 
+class Solution:
+    def countWords(self, words1: List[str], words2: List[str]) -> int:
+        from collections import Counter
+        counts1 = Counter(words1)
+        counts2 = Counter(words2)
+        return sum( counts1[key] == counts2[key] == 1 for key in counts1 )
