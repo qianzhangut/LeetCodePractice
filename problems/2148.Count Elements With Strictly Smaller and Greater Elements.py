@@ -1,3 +1,4 @@
+###burtal force
 class Solution:
     def countElements(self, nums: List[int]) -> int:
         
@@ -8,5 +9,12 @@ class Solution:
                 ans -= 1
                 
         return ans if len(n)>=2 else 0
+   
+ ###min/max
+ class Solution:
+    def countElements(self, nums: List[int]) -> int:
+        mi, ma = min(nums), max(nums)
+        
+        return sum(1 for i in nums if mi<i<ma)
    
         
