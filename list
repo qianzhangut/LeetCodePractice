@@ -268,7 +268,10 @@
 2129.Capitalize the Title
 2133.Check if Every Row and Column Contains All Numbers
 2138.Divide a String Into Groups of Size k
+2144.Minimum Cost of Buying Candies With Discount
+2148.Count Elements With Strictly Smaller and Greater Elements
 2154.Keep Multiplying Found Values by Two
+2155.All Divisions With the Highest Score of a Binary Array
 2160.Minimum Sum of Four Digit Number After Splitting Digits
 2164.Sort Even and Odd Indices Independently
 2169.Count Operations to Obtain Zero
@@ -277,3 +280,4 @@
 2185.Counting Words With a Given Prefix
 2190.Most Frequent Number Following Key In an Array
 2194.Cells in a Range on an Excel Sheet
+2200.Find All K-Distant Indices in an Array
