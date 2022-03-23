@@ -2,7 +2,6 @@ import os
 import re
 from tkinter import Tcl
 
-
 #work = "F:/github_project/LeetCodePractice/"
 
 work = "/mnt/c/Users/zhang/LeetCodePractice/"
