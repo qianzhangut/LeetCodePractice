@@ -47,3 +47,8 @@ with open(work+"README.md", 'w') as l:
         l.write(
             '|{0}|[{1}](https://www.leetcode.com/problems/{2}/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/{3}) |'
             .format(temp[0], temp[1], leet, git_id)+'\n')
+
+
+
+
+print("New Readme Update Done")
