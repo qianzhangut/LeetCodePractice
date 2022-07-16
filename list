@@ -286,9 +286,11 @@
 2210.Count Hills and Valleys in an Array
 2215.Find the Difference of Two Arrays
 2220.Minimum Bit Flips to Convert Number
+2221.Find Triangular Sum of an Array
 2224.Minimum Number of Operations to Convert Time
 2231.Largest Number After Digit Swaps by Parity
 2235.Add Two Integers
+2236.Root Equals Sum of Children
 2239.Find Closest Number to Zero
 2240.Number of Ways to Buy Pens and Pencils
 2243.Calculate Digit Sum of a String
@@ -303,3 +305,4 @@
 2309.Greatest English Letter in Upper and Lower Case
 2315.Count Asterisks
 2319.Check if Matrix Is X-Matrix
+2325.Decode the Message
