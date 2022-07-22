@@ -1,3 +1,4 @@
+#recursive
 class Solution:
     def triangularSum(self, nums: List[int]) -> int:
         
@@ -11,3 +12,12 @@ class Solution:
             return find(a, n-1)
                 
         return find(nums, len(nums))
+        
+        
+#5-4-3-2-1
+class Solution:
+    def triangularSum(self, nums: List[int]) -> int:
+        for n in range(len(nums) - 1,0,-1):
+            for i in range(n):
+                nums[i] = (nums[i] + nums[i + 1]) %10
+        return nums[0]
