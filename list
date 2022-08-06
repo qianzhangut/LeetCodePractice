@@ -289,6 +289,7 @@
 2221.Find Triangular Sum of an Array
 2224.Minimum Number of Operations to Convert Time
 2231.Largest Number After Digit Swaps by Parity
+2232.Minimize Result by Adding Parentheses to Expression
 2235.Add Two Integers
 2236.Root Equals Sum of Children
 2239.Find Closest Number to Zero
@@ -312,3 +313,4 @@
 2341.Maximum Number of Pairs in Array
 2351.First Letter to Appear Twice
 2352.Equal Row and Column Pairs
+2357.Make Array Zero by Subtracting Equal Amounts
