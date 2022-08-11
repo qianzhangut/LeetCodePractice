@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode practice problems.
 |083|[Remove Duplicates from Sorted List](https://www.leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/083.Remove%20Duplicates%20from%20Sorted%20List.py) |
 |088|[Merge Sorted Array](https://www.leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/088.Merge%20Sorted%20Array.py) |
 |090|[Subsets II](https://www.leetcode.com/problems/subsets-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/090.Subsets%20II.py) |
+|112|[Path Sum](https://www.leetcode.com/problems/path-sum/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/112.Path%20Sum.py) |
 |121|[Best Time to Buy and Sell Stock](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 |122|[Best Time to Buy and Sell Stock II](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) |
 |125|[Valid Palindrome](https://www.leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/125.Valid%20Palindrome.py) |
