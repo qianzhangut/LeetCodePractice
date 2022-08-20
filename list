@@ -31,6 +31,8 @@
 083.Remove Duplicates from Sorted List
 088.Merge Sorted Array
 090.Subsets II
+94.Binary Tree Inorder Traversal
+104.Maximum Depth of Binary Tree
 112.Path Sum
 121.Best Time to Buy and Sell Stock
 122.Best Time to Buy and Sell Stock II
@@ -40,6 +42,8 @@
 137.Single Number II
 139.Word Break
 141.Linked List Cycle
+144.Binary Tree Preorder Traversal
+145.Binary Tree Postorder Traversal
 151.Reverse Words in a String
 152.Maximum Product Subarray
 153.Find Minimum in Rotated Sorted Array
