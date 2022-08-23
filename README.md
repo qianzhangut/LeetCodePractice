@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode practice problems.
 |216|[Combination Sum III](https://www.leetcode.com/problems/combination-sum-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/216.Combination%20Sum%20III.py) |
 |217|[Contains Duplicate](https://www.leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/217.Contains%20Duplicate.py) |
 |219|[Contains Duplicate II](https://www.leetcode.com/problems/contains-duplicate-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/219.Contains%20Duplicate%20II.py) |
+|226|[Invert Binary Tree](https://www.leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/226.Invert%20Binary%20Tree.py) |
 |228|[Summary Ranges](https://www.leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/228.Summary%20Ranges.py) |
 |231|[Power of Two](https://www.leetcode.com/problems/power-of-two/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/231.Power%20of%20Two.py) |
 |237|[Delete Node in a Linked List](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/237.Delete%20Node%20in%20a%20Linked%20List.py) |
