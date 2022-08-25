@@ -141,6 +141,7 @@ This repository contains my solutions to LeetCode practice problems.
 |593|[Valid Square](https://www.leetcode.com/problems/valid-square/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/593.Valid%20Square.py) |
 |595|[Big Countries](https://www.leetcode.com/problems/big-countries/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/595.Big%20Countries.sql.py) |
 |605|[Can Place Flowers](https://www.leetcode.com/problems/can-place-flowers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/605.Can%20Place%20Flowers.py) |
+|617|[Merge Two Binary Trees](https://www.leetcode.com/problems/merge-two-binary-trees/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/617.Merge%20Two%20Binary%20Trees.py) |
 |620|[Not Boring Movies](https://www.leetcode.com/problems/not-boring-movies/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/620.Not%20Boring%20Movies.sql.py) |
 |627|[Swap Salary](https://www.leetcode.com/problems/swap-salary/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/627.Swap%20Salary.py) |
 |628|[Maximum Product of Three Numbers](https://www.leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/628.Maximum%20Product%20of%20Three%20Numbers.py) |
