@@ -81,6 +81,7 @@
 237.Delete Node in a Linked List
 238.Product of Array Except Self
 242.Valid Anagram
+257.Binary Tree Paths
 258.Add Digits
 263.Ugly Number
 264.Ugly Number II
@@ -328,3 +329,4 @@
 2363.Merge Similar Items
 2367.Number of Arithmetic Triplets
 2373.Largest Local Values in a Matrix
+2389.Longest Subsequence With Limited Sum
