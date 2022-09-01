@@ -92,6 +92,7 @@ This repository contains my solutions to LeetCode practice problems.
 |237|[Delete Node in a Linked List](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/237.Delete%20Node%20in%20a%20Linked%20List.py) |
 |238|[Product of Array Except Self](https://www.leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/238.Product%20of%20Array%20Except%20Self.py) |
 |242|[Valid Anagram](https://www.leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/242.Valid%20Anagram.py) |
+|257|[Binary Tree Paths](https://www.leetcode.com/problems/binary-tree-paths/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/257.Binary%20Tree%20Paths.py) |
 |258|[Add Digits](https://www.leetcode.com/problems/add-digits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/258.Add%20Digits.py) |
 |263|[Ugly Number](https://www.leetcode.com/problems/ugly-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/263.Ugly%20Number.py) |
 |264|[Ugly Number II](https://www.leetcode.com/problems/ugly-number-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/264.Ugly%20Number%20II.py) |
@@ -339,3 +340,4 @@ This repository contains my solutions to LeetCode practice problems.
 |2363|[Merge Similar Items](https://www.leetcode.com/problems/merge-similar-items/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2363.Merge%20Similar%20Items.py) |
 |2367|[Number of Arithmetic Triplets](https://www.leetcode.com/problems/number-of-arithmetic-triplets/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2367.Number%20of%20Arithmetic%20Triplets.py) |
 |2373|[Largest Local Values in a Matrix](https://www.leetcode.com/problems/largest-local-values-in-a-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2373.Largest%20Local%20Values%20in%20a%20Matrix.py) |
+|2389|[Longest Subsequence With Limited Sum](https://www.leetcode.com/problems/longest-subsequence-with-limited-sum/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2389.Longest%20Subsequence%20With%20Limited%20Sum.py) |
