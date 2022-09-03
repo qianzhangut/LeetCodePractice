@@ -147,6 +147,7 @@ This repository contains my solutions to LeetCode practice problems.
 |620|[Not Boring Movies](https://www.leetcode.com/problems/not-boring-movies/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/620.Not%20Boring%20Movies.sql.py) |
 |627|[Swap Salary](https://www.leetcode.com/problems/swap-salary/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/627.Swap%20Salary.py) |
 |628|[Maximum Product of Three Numbers](https://www.leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/628.Maximum%20Product%20of%20Three%20Numbers.py) |
+|637|[Average of Levels in Binary Tree](https://www.leetcode.com/problems/average-of-levels-in-binary-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/637.Average%20of%20Levels%20in%20Binary%20Tree.py) |
 |643|[Maximum Average Subarray I](https://www.leetcode.com/problems/maximum-average-subarray-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/643.Maximum%20Average%20Subarray%20I.py) |
 |648|[Replace Words](https://www.leetcode.com/problems/replace-words/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/648.Replace%20Words.py) |
 |657|[Robot Return to Origin](https://www.leetcode.com/problems/robot-return-to-origin/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/657.Robot%20Return%20to%20Origin.py) |
