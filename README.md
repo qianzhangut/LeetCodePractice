@@ -44,6 +44,8 @@ This repository contains my solutions to LeetCode practice problems.
 |090|[Subsets II](https://www.leetcode.com/problems/subsets-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/090.Subsets%20II.py) |
 |94|[Binary Tree Inorder Traversal](https://www.leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/94.Binary%20Tree%20Inorder%20Traversal.py) |
 |100|[Same Tree](https://www.leetcode.com/problems/same-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/100.Same%20Tree.py) |
+|101|[Symmetric Tree](https://www.leetcode.com/problems/symmetric-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/101.Symmetric%20Tree.py) |
+|102|[Binary Tree Level Order Traversal](https://www.leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/102.Binary%20Tree%20Level%20Order%20Traversal.py) |
 |104|[Maximum Depth of Binary Tree](https://www.leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/104.Maximum%20Depth%20of%20Binary%20Tree.py) |
 |110|[Balanced Binary Tree](https://www.leetcode.com/problems/balanced-binary-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/110.Balanced%20Binary%20Tree.py) |
 |111|[Minimum Depth of Binary Tree](https://www.leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/111.Minimum%20Depth%20of%20Binary%20Tree.py) |
@@ -120,6 +122,7 @@ This repository contains my solutions to LeetCode practice problems.
 |387|[First Unique Character in a String](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/387.First%20Unique%20Character%20in%20a%20String.py) |
 |389|[Find the Difference](https://www.leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/389.Find%20the%20Difference.py) |
 |392|[Is Subsequence](https://www.leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/392.Is%20Subsequence.py) |
+|404|[Sum of Left Leaves](https://www.leetcode.com/problems/sum-of-left-leaves/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/404.Sum%20of%20Left%20Leaves.py) |
 |405|[Convert a Number to Hexadecimal](https://www.leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/405.Convert%20a%20Number%20to%20Hexadecimal.py) |
 |409|[Longest Palindrome](https://www.leetcode.com/problems/longest-palindrome/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/409.Longest%20Palindrome.py) |
 |412|[Fizz Buzz](https://www.leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/412.Fizz%20Buzz.py) |
@@ -353,3 +356,5 @@ This repository contains my solutions to LeetCode practice problems.
 |2405|[Optimal Partition of String](https://www.leetcode.com/problems/optimal-partition-of-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2405.Optimal%20Partition%20of%20String.py) |
 |2409|[Count Days Spent Together](https://www.leetcode.com/problems/count-days-spent-together/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2409.Count%20Days%20Spent%20Together.py) |
 |2413|[Smallest Even Multiple](https://www.leetcode.com/problems/smallest-even-multiple/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2413.Smallest%20Even%20Multiple.py) |
+|2415|[Reverse Odd Levels of Binary Tree](https://www.leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2415.Reverse%20Odd%20Levels%20of%20Binary%20Tree.py) |
+|2418|[Sort the People](https://www.leetcode.com/problems/sort-the-people/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2418.Sort%20the%20People.py) |
