@@ -88,6 +88,7 @@ This repository contains my solutions to LeetCode practice problems.
 |202|[Happy Number](https://www.leetcode.com/problems/happy-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/202.Happy%20Number.py) |
 |203|[Remove Linked List Elements](https://www.leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/203.Remove%20Linked%20List%20Elements.py) |
 |204|[Count Primes](https://www.leetcode.com/problems/count-primes/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/204.Count%20Primes.py) |
+|206|[Reverse Linked List](https://www.leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/206.Reverse%20Linked%20List.py) |
 |216|[Combination Sum III](https://www.leetcode.com/problems/combination-sum-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/216.Combination%20Sum%20III.py) |
 |217|[Contains Duplicate](https://www.leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/217.Contains%20Duplicate.py) |
 |219|[Contains Duplicate II](https://www.leetcode.com/problems/contains-duplicate-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/219.Contains%20Duplicate%20II.py) |
