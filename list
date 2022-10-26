@@ -53,6 +53,7 @@
 151.Reverse Words in a String
 152.Maximum Product Subarray
 153.Find Minimum in Rotated Sorted Array
+160.Intersection of Two Linked Lists
 167.Two Sum II - Input array is sorted
 168.Excel Sheet Column Title
 169.Majority Element
@@ -187,6 +188,7 @@
 860.Lemonade Change
 867.Transpose Matrix
 868.Binary Gap
+876.Middle of the Linked List
 884.Uncommon Words from Two Sentences
 896.Monotonic Array
 905.Sort Array By Parity
@@ -227,6 +229,7 @@
 1290.Convert Binary Number in a Linked List to Integer
 1292.Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 1556.Thousand Separator
+1721.Swapping Nodes in a Linked List
 1732.Find the Highest Altitude
 1752.Check if Array Is Sorted and Rotated
 1758.Minimum Changes To Make Alternating Binary String
@@ -288,6 +291,7 @@
 2119.A Number After a Double Reversal
 2124.Check if All As Appears Before All Bs
 2129.Capitalize the Title
+2130.Maximum Twin Sum of a Linked List
 2133.Check if Every Row and Column Contains All Numbers
 2138.Divide a String Into Groups of Size k
 2144.Minimum Cost of Buying Candies With Discount
@@ -300,6 +304,7 @@
 2169.Count Operations to Obtain Zero
 2176.Count Equal and Divisible Pairs in an Array
 2180.Count Integers With Even Digit Sum
+2181.Merge Nodes in Between Zeros
 2185.Counting Words With a Given Prefix
 2190.Most Frequent Number Following Key In an Array
 2194.Cells in a Range on an Excel Sheet
