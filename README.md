@@ -32,7 +32,9 @@ This repository contains my solutions to LeetCode practice problems.
 |040|[Combination Sum II](https://www.leetcode.com/problems/combination-sum-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/040.Combination%20Sum%20II.py) |
 |046|[Permutations](https://www.leetcode.com/problems/permutations/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/046.Permutations.py) |
 |053|[Maximum Subarray](https://www.leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/053.Maximum%20Subarray.py) |
+|55|[Jump Game](https://www.leetcode.com/problems/jump-game/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/55.Jump%20Game.py) |
 |058|[Length of Last Word](https://www.leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/058.Length%20of%20Last%20Word.py) |
+|62|[Unique Paths](https://www.leetcode.com/problems/unique-paths/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/62.Unique%20Paths.py) |
 |066|[Plus One](https://www.leetcode.com/problems/plus-one/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/066.Plus%20One.py) |
 |067|[Add Binary](https://www.leetcode.com/problems/add-binary/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/067.Add%20Binary.py) |
 |069|[Sqrtx](https://www.leetcode.com/problems/sqrtx/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/069.Sqrtx.py) |
@@ -109,6 +111,7 @@ This repository contains my solutions to LeetCode practice problems.
 |287|[Find the Duplicate Number](https://www.leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/287.Find%20the%20Duplicate%20Number.py) |
 |290|[Word Pattern](https://www.leetcode.com/problems/word-pattern/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/290.Word%20Pattern.py) |
 |292|[Nim Game](https://www.leetcode.com/problems/nim-game/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/292.Nim%20Game.py) |
+|322|[Coin Change](https://www.leetcode.com/problems/coin-change/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/322.Coin%20Change.py) |
 |326|[Power of Three](https://www.leetcode.com/problems/power-of-three/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/326.Power%20of%20Three.py) |
 |338|[Counting Bits](https://www.leetcode.com/problems/counting-bits/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/338.Counting%20Bits.py) |
 |342|[Power of Four](https://www.leetcode.com/problems/power-of-four/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/342.Power%20of%20Four.py) |
@@ -239,6 +242,7 @@ This repository contains my solutions to LeetCode practice problems.
 |1287|[Element Appearing More Than 25](https://www.leetcode.com/problems/element-appearing-more-than-25/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1287.Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array.py) |
 |1290|[Convert Binary Number in a Linked List to Integer](https://www.leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) |
 |1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://www.leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1292.Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.py) |
+|1472|[Design Browser History](https://www.leetcode.com/problems/design-browser-history/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1472.Design%20Browser%20History.py) |
 |1556|[Thousand Separator](https://www.leetcode.com/problems/thousand-separator/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1556.Thousand%20Separator.py) |
 |1721|[Swapping Nodes in a Linked List](https://www.leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1721.Swapping%20Nodes%20in%20a%20Linked%20List.py) |
 |1732|[Find the Highest Altitude](https://www.leetcode.com/problems/find-the-highest-altitude/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/1732.Find%20the%20Highest%20Altitude.py) |
@@ -347,6 +351,7 @@ This repository contains my solutions to LeetCode practice problems.
 |2315|[Count Asterisks](https://www.leetcode.com/problems/count-asterisks/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2315.Count%20Asterisks.py) |
 |2319|[Check if Matrix Is X-Matrix](https://www.leetcode.com/problems/check-if-matrix-is-x-matrix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2319.Check%20if%20Matrix%20Is%20X-Matrix.py) |
 |2325|[Decode the Message](https://www.leetcode.com/problems/decode-the-message/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2325.Decode%20the%20Message.py) |
+|2326|[Spiral Matrix IV](https://www.leetcode.com/problems/spiral-matrix-iv/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2326.Spiral%20Matrix%20IV.py) |
 |2331|[Evaluate Boolean Binary Tree](https://www.leetcode.com/problems/evaluate-boolean-binary-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2331.Evaluate%20Boolean%20Binary%20Tree.py) |
 |2335|[Minimum Amount of Time to Fill Cups](https://www.leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2335.Minimum%20Amount%20of%20Time%20to%20Fill%20Cups.py) |
 |2341|[Maximum Number of Pairs in Array](https://www.leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2341.Maximum%20Number%20of%20Pairs%20in%20Array.py) |
