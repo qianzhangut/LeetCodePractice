@@ -21,7 +21,9 @@
 040.Combination Sum II
 046.Permutations
 053.Maximum Subarray
+55.Jump Game
 058.Length of Last Word
+62.Unique Paths
 066.Plus One
 067.Add Binary
 069.Sqrtx
@@ -98,6 +100,7 @@
 287.Find the Duplicate Number
 290.Word Pattern
 292.Nim Game
+322.Coin Change
 326.Power of Three
 338.Counting Bits
 342.Power of Four
@@ -228,6 +231,7 @@
 1287.Element Appearing More Than 25% In Sorted Array
 1290.Convert Binary Number in a Linked List to Integer
 1292.Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+1472.Design Browser History
 1556.Thousand Separator
 1721.Swapping Nodes in a Linked List
 1732.Find the Highest Altitude
@@ -336,6 +340,7 @@
 2315.Count Asterisks
 2319.Check if Matrix Is X-Matrix
 2325.Decode the Message
+2326.Spiral Matrix IV
 2331.Evaluate Boolean Binary Tree
 2335.Minimum Amount of Time to Fill Cups
 2341.Maximum Number of Pairs in Array
