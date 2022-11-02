@@ -42,6 +42,7 @@
 111.Minimum Depth of Binary Tree
 112.Path Sum
 113.Path Sum ii
+118.Pascal's Triangle
 121.Best Time to Buy and Sell Stock
 122.Best Time to Buy and Sell Stock II
 125.Valid Palindrome
@@ -217,6 +218,7 @@
 1009.Complement of Base 10 Integer
 1013.Partition Array Into Three Parts With Equal Sum
 1018.Binary Prefix Divisible By 5
+1025.Divisor Game
 1030.Matrix Cells in Distance Order
 1043.Partition Array for Maximum Sum
 1047.Remove All Adjacent Duplicates In String
