@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode practice problems.
 |112|[Path Sum](https://www.leetcode.com/problems/path-sum/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/112.Path%20Sum.py) |
 |113|[Path Sum ii](https://www.leetcode.com/problems/path-sum-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/113.Path%20Sum%20ii.py) |
 |118|[Pascal](https://www.leetcode.com/problems/pascal/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/118.Pascal's%20Triangle.py) |
+|119|[Pascal](https://www.leetcode.com/problems/pascal/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/119.Pascal's%20Triangle%20II.py) |
 |121|[Best Time to Buy and Sell Stock](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 |122|[Best Time to Buy and Sell Stock II](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) |
 |125|[Valid Palindrome](https://www.leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/125.Valid%20Palindrome.py) |
