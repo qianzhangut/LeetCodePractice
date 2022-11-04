@@ -223,6 +223,7 @@
 1030.Matrix Cells in Distance Order
 1043.Partition Array for Maximum Sum
 1047.Remove All Adjacent Duplicates In String
+1137.N-th Tribonacci Number
 1154.Day of the Year
 1160.Find Words That Can Be Formed by Characters
 1185.Day of the Week
@@ -236,6 +237,7 @@
 1292.Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 1472.Design Browser History
 1556.Thousand Separator
+1646.Get Maximum in Generated Array
 1721.Swapping Nodes in a Linked List
 1732.Find the Highest Altitude
 1752.Check if Array Is Sorted and Rotated
