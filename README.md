@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode practice problems.
 |014|[Longest Common Prefix](https://www.leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/014.Longest%20Common%20Prefix.py) |
 |017|[Letter Combinations of a Phone Number](https://www.leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/017.Letter%20Combinations%20of%20a%20Phone%20Number.py) |
 |021|[Merge Two Sorted Lists](https://www.leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/021.Merge%20Two%20Sorted%20Lists.py) |
+|22|[Generate Parentheses](https://www.leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/22.Generate%20Parentheses.py) |
 |023|[Merge k Sorted Lists](https://www.leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/023.Merge%20k%20Sorted%20Lists.py) |
 |026|[Remove Duplicates from Sorted Array](https://www.leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/026.Remove%20Duplicates%20from%20Sorted%20Array.py) |
 |027|[Remove Element](https://www.leetcode.com/problems/remove-element/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/027.Remove%20Element.py) |
@@ -97,6 +98,7 @@ This repository contains my solutions to LeetCode practice problems.
 |216|[Combination Sum III](https://www.leetcode.com/problems/combination-sum-iii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/216.Combination%20Sum%20III.py) |
 |217|[Contains Duplicate](https://www.leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/217.Contains%20Duplicate.py) |
 |219|[Contains Duplicate II](https://www.leetcode.com/problems/contains-duplicate-ii/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/219.Contains%20Duplicate%20II.py) |
+|223|[Rectangle Area](https://www.leetcode.com/problems/rectangle-area/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/223.Rectangle%20Area.py) |
 |226|[Invert Binary Tree](https://www.leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/226.Invert%20Binary%20Tree.py) |
 |228|[Summary Ranges](https://www.leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/228.Summary%20Ranges.py) |
 |231|[Power of Two](https://www.leetcode.com/problems/power-of-two/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/231.Power%20of%20Two.py) |
