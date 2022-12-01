@@ -8,3 +8,16 @@ class Solution:
                         ans += 1
                         
         return ans
+        
+##combination
+class Solution:
+    def unequalTriplets(self, nums: List[int]) -> int:
+        ans = 0
+        left, right = 0, len(nums)
+        
+        for _, freq in Counter(nums).items():
+            right -= freq
+            ans += left*freq*right
+            left += freq
+            
+        return ans
