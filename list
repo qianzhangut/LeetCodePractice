@@ -197,6 +197,7 @@
 868.Binary Gap
 876.Middle of the Linked List
 884.Uncommon Words from Two Sentences
+894.All Possible Full Binary Trees
 896.Monotonic Array
 905.Sort Array By Parity
 908.Smallest Range I
@@ -253,6 +254,7 @@
 1812.Determine Color of a Chessboard Square
 1816.Truncate Sentence
 1822.Sign of the Product of an Array
+1823.Find the Winner of the Circular Game
 1837.Sum of Digits in Base K
 1844.Replace All Digits with Characters
 1848.Minimum Distance to the Target Element
@@ -367,3 +369,6 @@
 2413.Smallest Even Multiple
 2415.Reverse Odd Levels of Binary Tree
 2418.Sort the People
+2475.Number of Unequal Triplets in Array
+2481.Minimum Cuts to Divide a Circle
+2485.Find the Pivot Integer
