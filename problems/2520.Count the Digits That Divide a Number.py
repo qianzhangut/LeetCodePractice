@@ -6,3 +6,9 @@ class Solution:
             num //= 10
 
         return cnt
+        
+        
+###
+class Solution:
+    def countDigits(self, num: int) -> int:
+           return sum(x % int(y) == 0 for y in str(x))
