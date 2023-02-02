@@ -10,3 +10,15 @@ class Solution:
                 return i
 
         return -1
+        
+        
+##O(n)
+class Solution:
+    def findMaxK(self, nums: List[int]) -> int:
+        ans = -1001
+        m = set(nums)
+        for i in nums:
+            if (i in m) and (-i in m):
+                ans = max(ans, abs(i))
+
+        return -1 if ans==-1001 else ans
