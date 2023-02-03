@@ -371,6 +371,8 @@
 2413.Smallest Even Multiple
 2415.Reverse Odd Levels of Binary Tree
 2418.Sort the People
+2441.Largest Positive Integer That Exists With Its Negative
+2442.Count Number of Distinct Integers After Reverse Operations
 2452.Words Within Two Edits of Dictionary
 2455.Average Value of Even Numbers That Are Divisible by Three
 2460.Apply Operations to an Array
@@ -382,6 +384,7 @@
 2486.Append Characters to String to Make Subsequence
 2487.Remove Nodes From Linked List
 2490.Circular Sentence
+2496.Maximum Value of a String in an Array
 2500.Delete Greatest Value in Each Row
 2506.Count Pairs Of Similar Strings
 2507.Smallest Value After Replacing With Sum of Prime Factors
@@ -390,3 +393,7 @@
 2525.Categorize Box According to Criteria
 2529.Maximum Count of Positive Integer and Negative Integer
 2535.Difference Between Element Sum and Digit Sum of an Array
+2540.Minimum Common Value
+2544.Alternating Digit Sum
+2545.Sort the Students by Their Kth Score
+2549.Count Distinct Numbers on Board
