@@ -371,6 +371,7 @@
 2413.Smallest Even Multiple
 2415.Reverse Odd Levels of Binary Tree
 2418.Sort the People
+2433.Find The Original Array of Prefix Xor
 2441.Largest Positive Integer That Exists With Its Negative
 2442.Count Number of Distinct Integers After Reverse Operations
 2446.Determine if Two Events Have Conflict
@@ -399,6 +400,7 @@
 2545.Sort the Students by Their Kth Score
 2549.Count Distinct Numbers on Board
 2553.Separate the Digits in an Array
+2554.Maximum Number of Integers to Choose From a Range I
 2558.Take Gifts From the Richest Pile
 2559.Count Vowel Strings in Ranges
 2562.Find the Array Concatenation Value
