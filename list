@@ -356,6 +356,7 @@
 2331.Evaluate Boolean Binary Tree
 2335.Minimum Amount of Time to Fill Cups
 2341.Maximum Number of Pairs in Array
+2347.Best Poker Hand
 2351.First Letter to Appear Twice
 2352.Equal Row and Column Pairs
 2357.Make Array Zero by Subtracting Equal Amounts
@@ -365,6 +366,7 @@
 2373.Largest Local Values in a Matrix
 2379.Minimum Recolors to Get K Consecutive Black Blocks
 2389.Longest Subsequence With Limited Sum
+2395.Find Subarrays With Equal Sum
 2399.Check Distances Between Same Letters
 2405.Optimal Partition of String
 2409.Count Days Spent Together
@@ -408,3 +410,6 @@
 2570.Merge Two 2D Arrays by Summing Values
 2571.Minimum Operations to Reduce an Integer to 0
 2574.Left and Right Sum Differences
+2578.Split With Minimum Sum
+2579.Count Total Number of Colored Cells
+2582.Pass the Pillow
