@@ -240,6 +240,7 @@
 1287.Element Appearing More Than 25% In Sorted Array
 1290.Convert Binary Number in a Linked List to Integer
 1292.Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+1380.Lucky Numbers in a Matrix
 1385.Find the Distance Value Between Two Arrays
 1472.Design Browser History
 1556.Thousand Separator
@@ -415,3 +416,4 @@
 2579.Count Total Number of Colored Cells
 2582.Pass the Pillow
 2586.Count the Number of Vowel Strings in Range
+2595.Number of Even and Odd Bits
