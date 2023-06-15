@@ -446,3 +446,4 @@ This repository contains my solutions to LeetCode practice problems.
 |2706|[Buy Two Chocolates](https://www.leetcode.com/problems/buy-two-chocolates/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2706.Buy%20Two%20Chocolates.py) |
 |2710|[Remove Trailing Zeros From a String](https://www.leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2710.Remove%20Trailing%20Zeros%20From%20a%20String.py) |
 |2716|[Minimize String Length](https://www.leetcode.com/problems/minimize-string-length/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2716.Minimize%20String%20Length.py) |
+|2733|[Neither Minimum nor Maximum](https://www.leetcode.com/problems/neither-minimum-nor-maximum/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2733.Neither%20Minimum%20nor%20Maximum.py) |
