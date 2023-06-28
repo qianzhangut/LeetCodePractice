@@ -448,3 +448,4 @@ This repository contains my solutions to LeetCode practice problems.
 |2716|[Minimize String Length](https://www.leetcode.com/problems/minimize-string-length/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2716.Minimize%20String%20Length.py) |
 |2729|[Check if The Number is Fascinating](https://www.leetcode.com/problems/check-if-the-number-is-fascinating/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2729.Check%20if%20The%20Number%20is%20Fascinating.py) |
 |2733|[Neither Minimum nor Maximum](https://www.leetcode.com/problems/neither-minimum-nor-maximum/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2733.Neither%20Minimum%20nor%20Maximum.py) |
+|2739|[Total Distance Traveled](https://www.leetcode.com/problems/total-distance-traveled/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2739.Total%20Distance%20Traveled.py) |
