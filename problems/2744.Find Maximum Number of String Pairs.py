@@ -4,6 +4,6 @@ class Solution:
         n = len(words)
         for i in range(n):
             for j in range(i+1, n):
-                if words[i][0] == words[j][1] and words[i][1] == words[j][0]:
+                if words[i]==words[j][::-1]:
                     ans += 1
         return ans
