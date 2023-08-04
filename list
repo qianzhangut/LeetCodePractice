@@ -280,6 +280,7 @@
 1952.Three Divisors
 1957.Delete Characters to Make Fancy String
 1961.Check If String Is a Prefix of Array
+1965.Employees With Missing Information.sql
 1967.Number of Strings That Appear as Substrings in Word
 1974.Minimum Time to Type Word Using Special Typewriter
 1980.Find Unique Binary String
@@ -446,3 +447,4 @@
 2778.Sum of Squares of Special Elements
 2785.Sort Vowels in a String
 2788.Split Strings by Separator
+2798.Number of Employees Who Met the Target
