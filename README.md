@@ -461,3 +461,4 @@ This repository contains my solutions to LeetCode practice problems.
 |2788|[Split Strings by Separator](https://www.leetcode.com/problems/split-strings-by-separator/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2788.Split%20Strings%20by%20Separator.py) |
 |2798|[Number of Employees Who Met the Target](https://www.leetcode.com/problems/number-of-employees-who-met-the-target/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2798.Number%20of%20Employees%20Who%20Met%20the%20Target.py) |
 |2810|[Faulty Keyboard](https://www.leetcode.com/problems/faulty-keyboard/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2810.Faulty%20Keyboard.py) |
+|2815|[Max Pair Sum in an Array](https://www.leetcode.com/problems/max-pair-sum-in-an-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2815.Max%20Pair%20Sum%20in%20an%20Array.py) |
