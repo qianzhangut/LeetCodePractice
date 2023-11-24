@@ -480,4 +480,5 @@ This repository contains my solutions to LeetCode practice problems.
 |2917|[Find the K-or of an Array](https://www.leetcode.com/problems/find-the-k-or-of-an-array/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2917.Find%20the%20K-or%20of%20an%20Array.py) |
 |2923|[Find Champion I](https://www.leetcode.com/problems/find-champion-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2923.Find%20Champion%20I.py) |
 |2928|[ Distribute Candies Among Children I](https://www.leetcode.com/problems/distribute-candies-among-children-i/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2928.%20Distribute%20Candies%20Among%20Children%20I.py) |
+|2937|[Make Three Strings Equal](https://www.leetcode.com/problems/make-three-strings-equal/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/2937.Make%20Three%20Strings%20Equal.py) |
 |problempush|[sh](https://www.leetcode.com/problems/sh/) | [Solution](https://github.com/qianzhangut/LeetCodePractice/blob/master/problems/problempush.sh.py) |
