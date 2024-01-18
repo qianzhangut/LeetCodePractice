@@ -13,3 +13,11 @@ class Solution:
                 ans += v
 
         return ans
+        
+        
+#ver2       
+class Solution:
+    def maxFrequencyElements(self, nums: List[int]) -> int:
+        d = Counter(nums)
+        m = max(d.values())
+        return sum([x for x in d.values() if x==m])
